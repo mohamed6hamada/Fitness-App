@@ -1,0 +1,36 @@
+﻿@model Fitness_App.BL.ViewModels.SubscriptionPlanViewModel
+
+<h2>Update Subscription Plan</h2>
+
+<form asp-action="UpdateSubscriptionPlan" method="post">
+    <input type="hidden" asp-for="PlanId" />
+
+    <div class="form-group">
+        <label asp-for="Name" class="control-label">Name</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Price" class="control-label">Price</label>
+        <input asp-for="Price" class="form-control" type="number" step="0.01" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Description" class="control-label">Description</label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="DurationInDays" class="control-label">Duration (in days)</label>
+        <input asp-for="DurationInDays" class="form-control" type="number" />
+        <span asp-validation-for="DurationInDays" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-action="ManageSubscriptionPlans" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

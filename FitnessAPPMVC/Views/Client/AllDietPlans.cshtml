@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Fitness_App.BL.ViewModels.DietPlanDisplayViewModel>
+
+@{
+    ViewData["Title"] = "All Diet Plans";
+}
+
+<h2 class="text-center my-4">All Diet Plans</h2>
+
+<div class="container">
+    <div class="row">
+        @foreach (var plan in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card shadow-sm rounded">
+                    <img src="@Url.Content("~/" + plan.ImagePath)" class="card-img-top img-fluid" alt="@plan.PlanTitle" style="height: 350px; width: 100%; object-fit: contain;" />
+                    <div class="card-body">
+                        <h5 class="card-title">@plan.PlanTitle</h5>
+                        <a asp-action="ViewDietPlan" asp-route-id="@plan.Id" class="btn btn-primary w-100">View</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

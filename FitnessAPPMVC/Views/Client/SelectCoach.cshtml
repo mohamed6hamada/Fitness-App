@@ -1,0 +1,138 @@
+@model IEnumerable<Fitness_App.BL.ViewModels.CoachViewModel>
+@{
+    ViewData["Title"] = "Select a Coach";
+}
+
+<div class="container py-5">
+    <div class="row mb-4">
+        <div class="col-12">
+            <h1 class="display-4">Select Your Coach</h1>
+            <p class="lead text-muted">Choose a coach to help you achieve your fitness goals.</p>
+            <hr>
+        </div>
+    </div>
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger">
+            @TempData["ErrorMessage"]
+        </div>
+    }
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-info">
+            No coaches are available at the moment.
+        </div>
+    }
+    else
+    {
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+            @foreach (var coach in Model)
+            {
+                <div class="col">
+                    <div class="card h-100 shadow-sm">
+                        <div class="position-relative coach-image-container">
+                            @if (!string.IsNullOrEmpty(coach.ImageUrl))
+                            {
+                                <img src="@Url.Content($"~{coach.ImageUrl}")" 
+                                     class="card-img-top coach-img" 
+                                     alt="@coach.Name"
+                                     onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                                <div class="card-img-top bg-light d-none align-items-center justify-content-center">
+                                    <i class="fas fa-user-circle fa-6x text-secondary"></i>
+                                </div>
+                            }
+                            else
+                            {
+                                <div class="card-img-top bg-light d-flex align-items-center justify-content-center">
+                                    <i class="fas fa-user-circle fa-6x text-secondary"></i>
+                                </div>
+                            }
+                            <div class="position-absolute bottom-0 start-0 w-100 bg-dark bg-opacity-75 text-white p-3">
+                                <h5 class="card-title mb-0">@coach.Name</h5>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="mb-3">
+                                <div class="d-flex align-items-center mb-2">
+                                    <i class="fas fa-dumbbell text-primary me-2"></i>
+                                    <strong>Specialization:</strong>
+                                    <span class="ms-2">@coach.Specialization</span>
+                                </div>
+                                <div class="d-flex align-items-center mb-2">
+                                    <i class="fas fa-star text-warning me-2"></i>
+                                    <strong>Experience:</strong>
+                                    <span class="ms-2">@(coach.Experience > 0 ? $"{coach.Experience} years" : "New Coach")</span>
+                                </div>
+                                <div class="d-flex align-items-center">
+                                    <i class="fas fa-envelope text-info me-2"></i>
+                                    <strong>Contact:</strong>
+                                    <span class="ms-2">@coach.Email</span>
+                                </div>
+                            </div>
+                            @if (!string.IsNullOrEmpty(coach.Bio))
+                            {
+                                <div class="mb-3">
+                                    <h6 class="mb-2"><i class="fas fa-info-circle text-primary me-2"></i>About</h6>
+                                    <p class="card-text">@coach.Bio</p>
+                                </div>
+                            }
+                        </div>
+                        <div class="card-footer bg-transparent border-0 pb-3">
+                            <form asp-action="SubscribeToCoach" asp-route-coachId="@coach.Id" method="post" class="d-grid">
+                                @Html.AntiForgeryToken()
+                                <button type="submit" class="btn btn-primary btn-lg">
+                                    <i class="fas fa-user-plus me-2"></i>Select This Coach
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>
+
+<style>
+    .coach-image-container {
+        height: 300px;
+        overflow: hidden;
+        background-color: #f8f9fa;
+    }
+    
+    .coach-img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: transform 0.3s ease;
+    }
+    
+    .card-img-top {
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .card:hover .coach-img {
+        transform: scale(1.05);
+    }
+    
+    .card {
+        transition: box-shadow 0.3s ease;
+        overflow: hidden;
+    }
+    
+    .card:hover {
+        box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+    }
+    
+    .card-title {
+        text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    }
+
+    .d-none {
+        display: none !important;
+    }
+</style> 

@@ -1,0 +1,1941 @@
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.csproj.AssemblyReference.cache
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.AssemblyInfoInputs.cache
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.AssemblyInfo.cs
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.csproj.CoreCompileInputs.cache
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.RazorAssemblyInfo.cache
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.RazorAssemblyInfo.cs
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\appsettings.Development.json
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\appsettings.json
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.staticwebassets.runtime.json
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.staticwebassets.endpoints.json
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.exe
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.deps.json
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.runtimeconfig.json
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.pdb
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\AutoMapper.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Azure.Core.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Azure.Identity.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Humanizer.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Build.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Common.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.ClientModel.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.CodeDom.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Memory.Data.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.BL.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.DAL.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.BL.pdb
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.DAL.pdb
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\scopedcss\bundle\FitnessAPPMVC.styles.css
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\scopedcss\projectbundle\FitnessAPPMVC.bundle.scp.css
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.FitnessAPPMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.FitnessAPPMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.FitnessAPPMVC.props
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FitnessAPPMVC.props
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FitnessAPPMVC.props
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessA.9AAF0C5D.Up2Date
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\refint\FitnessAPPMVC.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.pdb
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.genruntimeconfig.cache
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\ref\FitnessAPPMVC.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.sourcelink.json
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\appsettings.Development.json
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\appsettings.json
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.staticwebassets.endpoints.json
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.staticwebassets.runtime.json
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.exe
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.deps.json
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.runtimeconfig.json
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.pdb
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\AutoMapper.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Azure.Core.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Azure.Identity.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Humanizer.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Build.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Common.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.ClientModel.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.CodeDom.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Memory.Data.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.BL.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.DAL.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.BL.pdb
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.DAL.pdb
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.csproj.AssemblyReference.cache
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.AssemblyInfoInputs.cache
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.AssemblyInfo.cs
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.csproj.CoreCompileInputs.cache
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.RazorAssemblyInfo.cache
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.RazorAssemblyInfo.cs
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.sourcelink.json
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\scopedcss\bundle\FitnessAPPMVC.styles.css
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\scopedcss\projectbundle\FitnessAPPMVC.bundle.scp.css
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.FitnessAPPMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.FitnessAPPMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.FitnessAPPMVC.props
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FitnessAPPMVC.props
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FitnessAPPMVC.props
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.pack.json
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessA.9AAF0C5D.Up2Date
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\refint\FitnessAPPMVC.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.pdb
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.genruntimeconfig.cache
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\ref\FitnessAPPMVC.dll
+D:\NewUpdates\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\appsettings.Development.json
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\appsettings.json
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.staticwebassets.endpoints.json
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.staticwebassets.runtime.json
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.exe
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.deps.json
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.runtimeconfig.json
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.pdb
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\AutoMapper.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Azure.Core.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Azure.Identity.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Humanizer.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Build.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Common.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.ClientModel.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.CodeDom.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Memory.Data.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.BL.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.DAL.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.BL.pdb
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.DAL.pdb
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.csproj.AssemblyReference.cache
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.AssemblyInfoInputs.cache
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.AssemblyInfo.cs
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.csproj.CoreCompileInputs.cache
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.RazorAssemblyInfo.cache
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.RazorAssemblyInfo.cs
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.sourcelink.json
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\scopedcss\bundle\FitnessAPPMVC.styles.css
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\scopedcss\projectbundle\FitnessAPPMVC.bundle.scp.css
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.FitnessAPPMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.FitnessAPPMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.FitnessAPPMVC.props
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FitnessAPPMVC.props
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FitnessAPPMVC.props
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.pack.json
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessA.9AAF0C5D.Up2Date
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\refint\FitnessAPPMVC.dll
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.pdb
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.genruntimeconfig.cache
+D:\xxxxxx\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\ref\FitnessAPPMVC.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\appsettings.Development.json
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.staticwebassets.endpoints.json
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\appsettings.json
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.staticwebassets.runtime.json
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.exe
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.deps.json
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.runtimeconfig.json
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.pdb
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\AutoMapper.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Azure.Core.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Azure.Identity.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Humanizer.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Build.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Common.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Stripe.net.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.ClientModel.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.CodeDom.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Memory.Data.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.BL.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.DAL.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.BL.pdb
+D:\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.DAL.pdb
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.csproj.AssemblyReference.cache
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.AssemblyInfoInputs.cache
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.AssemblyInfo.cs
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.csproj.CoreCompileInputs.cache
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.RazorAssemblyInfo.cache
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.RazorAssemblyInfo.cs
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.sourcelink.json
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\scopedcss\bundle\FitnessAPPMVC.styles.css
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\scopedcss\projectbundle\FitnessAPPMVC.bundle.scp.css
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.FitnessAPPMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.FitnessAPPMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.FitnessAPPMVC.props
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FitnessAPPMVC.props
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FitnessAPPMVC.props
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.pack.json
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessA.9AAF0C5D.Up2Date
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\refint\FitnessAPPMVC.dll
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.pdb
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.genruntimeconfig.cache
+D:\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\ref\FitnessAPPMVC.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\appsettings.Development.json
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.staticwebassets.endpoints.json
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\appsettings.json
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.staticwebassets.runtime.json
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.exe
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.deps.json
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.runtimeconfig.json
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.pdb
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\AutoMapper.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Azure.Core.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Azure.Identity.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Humanizer.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Build.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Common.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Stripe.net.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.ClientModel.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.CodeDom.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Memory.Data.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.BL.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.DAL.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.BL.pdb
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.DAL.pdb
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.csproj.AssemblyReference.cache
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.AssemblyInfoInputs.cache
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.AssemblyInfo.cs
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.csproj.CoreCompileInputs.cache
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.RazorAssemblyInfo.cache
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.RazorAssemblyInfo.cs
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.sourcelink.json
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\scopedcss\bundle\FitnessAPPMVC.styles.css
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\scopedcss\projectbundle\FitnessAPPMVC.bundle.scp.css
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.FitnessAPPMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.FitnessAPPMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.FitnessAPPMVC.props
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FitnessAPPMVC.props
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FitnessAPPMVC.props
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.pack.json
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessA.9AAF0C5D.Up2Date
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\refint\FitnessAPPMVC.dll
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.pdb
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.genruntimeconfig.cache
+D:\zzzzzzz\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\ref\FitnessAPPMVC.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.csproj.AssemblyReference.cache
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.AssemblyInfoInputs.cache
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.AssemblyInfo.cs
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.csproj.CoreCompileInputs.cache
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.RazorAssemblyInfo.cache
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.RazorAssemblyInfo.cs
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.sourcelink.json
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\refint\FitnessAPPMVC.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.pdb
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\appsettings.Development.json
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\appsettings.json
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.staticwebassets.endpoints.json
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.staticwebassets.runtime.json
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.exe
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.deps.json
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.runtimeconfig.json
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.pdb
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\AutoMapper.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Azure.Core.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Azure.Identity.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Humanizer.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Build.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Common.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Stripe.net.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.ClientModel.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.CodeDom.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.BL.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.DAL.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.BL.pdb
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.DAL.pdb
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\scopedcss\bundle\FitnessAPPMVC.styles.css
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\scopedcss\projectbundle\FitnessAPPMVC.bundle.scp.css
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.FitnessAPPMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.FitnessAPPMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.FitnessAPPMVC.props
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FitnessAPPMVC.props
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FitnessAPPMVC.props
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessA.9AAF0C5D.Up2Date
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.genruntimeconfig.cache
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\ref\FitnessAPPMVC.dll
+D:\ok brother im done\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\appsettings.Development.json
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\appsettings.json
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.staticwebassets.runtime.json
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.staticwebassets.endpoints.json
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.exe
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.deps.json
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.runtimeconfig.json
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\FitnessAPPMVC.pdb
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\AutoMapper.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Azure.Core.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Azure.Identity.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Humanizer.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Build.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Common.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Stripe.net.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.ClientModel.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.CodeDom.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.BL.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.DAL.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.BL.pdb
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\bin\Debug\net8.0\Fitness App.DAL.pdb
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.csproj.AssemblyReference.cache
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.AssemblyInfoInputs.cache
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.AssemblyInfo.cs
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.csproj.CoreCompileInputs.cache
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.RazorAssemblyInfo.cache
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.RazorAssemblyInfo.cs
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.sourcelink.json
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\scopedcss\bundle\FitnessAPPMVC.styles.css
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\scopedcss\projectbundle\FitnessAPPMVC.bundle.scp.css
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.FitnessAPPMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.FitnessAPPMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.FitnessAPPMVC.props
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FitnessAPPMVC.props
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FitnessAPPMVC.props
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessA.9AAF0C5D.Up2Date
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\refint\FitnessAPPMVC.dll
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.pdb
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\FitnessAPPMVC.genruntimeconfig.cache
+D:\ziad\FitnessAPPMVCSol\FitnessAPPMVC\obj\Debug\net8.0\ref\FitnessAPPMVC.dll

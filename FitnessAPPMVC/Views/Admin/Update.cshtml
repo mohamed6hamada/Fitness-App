@@ -1,0 +1,45 @@
+﻿@model Fitness_App.BL.ViewModels.ExerciseViewModel
+
+@{
+    ViewData["Title"] = "Edit Exercise";
+}
+
+<h2 class="mb-4">Edit Exercise</h2>
+
+<form asp-controller="Admin" asp-action="UpdateExercise" method="post" enctype="multipart/form-data" class="needs-validation" novalidate>
+    <div class="form-group mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" value="@Model.Name"/>
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="Description" class="form-label"></label>
+        <textarea asp-for="Description" class="form-control" rows="4" value="@Model.Description"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="GIFFile" class="form-label">Upload Exercise GIF</label>
+        <input asp-for="GIFFile" type="file" class="form-control" />
+        <span asp-validation-for="GIFFile" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-4">
+        <label asp-for="Type" class="form-label"></label>
+        <select asp-for="Type" class="form-control" asp-items="Html.GetEnumSelectList<Fitness_App.DAL.Models.ExerciseType>()">
+            <option value="">-- Select Type --</option>
+        </select>
+        <span asp-validation-for="Type" class="text-danger"></span>
+    </div>
+
+
+    <div class="d-flex gap-2">
+        <button type="submit" class="btn btn-primary">Edit Exercise</button>
+        <a asp-action="GetExerciseData" class="btn btn-outline-secondary">Cancel</a>
+    </div>
+</form>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

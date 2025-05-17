@@ -1,0 +1,107 @@
+﻿@model Fitness_App.BL.ViewModels.SubscriptionPlanViewModel
+
+@{
+    ViewData["Title"] = "Add Subscription Plan";
+    Layout = "_Layout";
+}
+
+@await Html.PartialAsync("_AdminStyles")
+
+<div class="admin-container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="admin-card card">
+                <div class="card-body p-4">
+                    <div class="admin-header text-center">
+                        <h2 class="fw-bold">Create New Subscription Plan</h2>
+                        <p class="text-muted">Design a subscription plan that offers great value to your members</p>
+                    </div>
+
+                    <form asp-action="AddSubscriptionPlan" method="post" class="needs-validation" novalidate>
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                        <div class="form-group mb-4">
+                            <label asp-for="Name" class="form-label">Plan Name</label>
+                            <input asp-for="Name" class="form-control form-control-lg" 
+                                   placeholder="e.g., Basic, Premium, Pro" required />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+
+                        <div class="row mb-4">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label asp-for="Price" class="form-label">Price ($)</label>
+                                    <div class="input-group">
+                                        <span class="input-group-text">$</span>
+                                        <input asp-for="Price" class="form-control form-control-lg" 
+                                               type="number" step="0.01" min="0" 
+                                               placeholder="Enter price" required />
+                                    </div>
+                                    <span asp-validation-for="Price" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label asp-for="DurationInDays" class="form-label">Duration (Days)</label>
+                                    <div class="input-group">
+                                        <input asp-for="DurationInDays" class="form-control form-control-lg" 
+                                               type="number" min="1" 
+                                               placeholder="e.g., 30, 90, 365" required />
+                                        <span class="input-group-text">days</span>
+                                    </div>
+                                    <span asp-validation-for="DurationInDays" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group mb-4">
+                            <label asp-for="Description" class="form-label">Plan Description</label>
+                            <textarea asp-for="Description" class="form-control form-control-lg" rows="4" 
+                                    placeholder="Describe the features and benefits of this subscription plan" required></textarea>
+                            <span asp-validation-for="Description" class="text-danger"></span>
+                            <small class="text-muted">
+                                Include key features, benefits, and any limitations of the plan
+                            </small>
+                        </div>
+
+                        <div class="d-grid gap-2 d-md-flex justify-content-md-end mt-4">
+                            <a asp-action="ManageSubscriptionPlans" class="btn btn-outline-secondary btn-lg px-4">
+                                <i class="fas fa-arrow-left me-2"></i>Back to Plans
+                            </a>
+                            <button type="submit" class="btn btn-primary btn-lg px-4">
+                                <i class="fas fa-plus-circle me-2"></i>Create Plan
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        // Form validation
+        (function () {
+            'use strict'
+            var forms = document.querySelectorAll('.needs-validation')
+            Array.prototype.slice.call(forms).forEach(function (form) {
+                form.addEventListener('submit', function (event) {
+                    if (!form.checkValidity()) {
+                        event.preventDefault()
+                        event.stopPropagation()
+                    }
+                    form.classList.add('was-validated')
+                }, false)
+            })
+        })()
+
+        // Price formatting
+        document.querySelector('input[type="number"][step="0.01"]').addEventListener('change', function(e) {
+            if (this.value) {
+                this.value = parseFloat(this.value).toFixed(2);
+            }
+        });
+    </script>
+}

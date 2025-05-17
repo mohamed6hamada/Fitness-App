@@ -1,0 +1,85 @@
+@model IEnumerable<Fitness_App.BL.ViewModels.WorkoutPlanViewModel>
+@{
+    ViewData["Title"] = "Assign Workout Plan";
+}
+
+<div class="container py-5">
+    <div class="row mb-4">
+        <div class="col-12">
+            <h1 class="display-4">Assign Workout Plan</h1>
+            <p class="lead">Select a workout plan to assign to your client.</p>
+            <hr>
+        </div>
+    </div>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-info">
+            <h4 class="alert-heading">No Workout Plans Available</h4>
+            <p>You need to create workout plans before you can assign them to clients.</p>
+            <hr>
+            <a asp-action="AddWorkoutPlan" class="btn btn-primary">
+                <i class="fas fa-plus me-2"></i>Create New Workout Plan
+            </a>
+        </div>
+    }
+    else
+    {
+        <div class="row">
+            @foreach (var plan in Model)
+            {
+                <div class="col-md-6 col-lg-4 mb-4">
+                    <div class="card h-100 shadow-sm">
+                        <div class="card-header bg-primary text-white">
+                            <h5 class="card-title mb-0">@plan.Title</h5>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">@(plan.Description?.Length > 150 ? plan.Description.Substring(0, 147) + "..." : plan.Description)</p>
+                            
+                            @if (!string.IsNullOrEmpty(plan.Duration))
+                            {
+                                <p class="mb-2">
+                                    <strong><i class="fas fa-clock me-2"></i>Duration:</strong>
+                                    @plan.Duration
+                                </p>
+                            }
+                            
+                            @if (!string.IsNullOrEmpty(plan.Goals))
+                            {
+                                <p class="mb-2">
+                                    <strong><i class="fas fa-bullseye me-2"></i>Goals:</strong>
+                                    @plan.Goals
+                                </p>
+                            }
+                        </div>
+                        <div class="card-footer bg-white border-0">
+                            <form asp-action="AssignWorkoutPlan" method="post" class="d-grid">
+                                @Html.AntiForgeryToken()
+                                <input type="hidden" name="subscriptionId" value="@ViewBag.SubscriptionId" />
+                                <input type="hidden" name="workoutPlanId" value="@plan.Id" />
+                                <button type="submit" class="btn btn-primary">
+                                    <i class="fas fa-check me-2"></i>Assign This Plan
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+
+    <div class="mt-4">
+        <a asp-action="MyClients" class="btn btn-secondary">
+            <i class="fas fa-arrow-left me-2"></i>Back to Clients
+        </a>
+    </div>
+</div>
+
+<style>
+    .card {
+        transition: transform 0.2s ease-in-out;
+    }
+    .card:hover {
+        transform: translateY(-5px);
+    }
+</style> 

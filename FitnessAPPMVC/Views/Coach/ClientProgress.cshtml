@@ -1,0 +1,191 @@
+@model List<Fitness_App.Models.ViewModels.ProgressLogViewModel>
+@{
+    ViewData["Title"] = "Client Progress";
+    Layout = "_Layout";
+}
+
+<div class="container mt-4">
+    <div class="row mb-4">
+        <div class="col">
+            <h2><i class="fas fa-chart-line me-2"></i>Client Progress</h2>
+            <p class="text-muted">Tracking progress for @ViewBag.ClientName (@ViewBag.ClientEmail)</p>
+        </div>
+    </div>
+
+    @if (Model == null || !Model.Any())
+    {
+        <div class="alert alert-info" role="alert">
+            <h4 class="alert-heading">No Progress Logs Found!</h4>
+            <p>This client hasn't recorded any progress logs yet. Progress logs are created when the client updates their weight, measurements, or other progress metrics.</p>
+        </div>
+    }
+    else
+    {
+        <div class="row mb-4">
+            <div class="col-md-6">
+                <div class="card shadow-sm h-100">
+                    <div class="card-header bg-primary text-white">
+                        <h5 class="mb-0">Weight Progress</h5>
+                    </div>
+                    <div class="card-body">
+                        <canvas id="weightChart"></canvas>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card shadow-sm h-100">
+                    <div class="card-header bg-success text-white">
+                        <h5 class="mb-0">Measurements Progress</h5>
+                    </div>
+                    <div class="card-body">
+                        <canvas id="measurementsChart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card shadow-sm">
+            <div class="card-header bg-secondary text-white">
+                <h4>Progress Log History</h4>
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Weight (kg)</th>
+                                <th>Weight to Goal</th>
+                                <th>Chest (cm)</th>
+                                <th>Waist (cm)</th>
+                                <th>Arms (cm)</th>
+                                <th>Thighs (cm)</th>
+                                <th>Notes</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var log in Model.OrderByDescending(l => l.Date))
+                            {
+                                <tr>
+                                    <td>@log.Date.ToShortDateString()</td>
+                                    <td>@log.Weight</td>
+                                    <td>@(log.WeightToGoal.HasValue ? Math.Round(log.WeightToGoal.Value, 1).ToString() : "N/A")</td>
+                                    <td>@log.Chest</td>
+                                    <td>@log.Waist</td>
+                                    <td>@log.Arms</td>
+                                    <td>@log.Thighs</td>
+                                    <td>@log.Notes</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    }
+    
+    <div class="row mt-4">
+        <div class="col">
+            <a asp-action="MyClients" class="btn btn-secondary">
+                <i class="fas fa-arrow-left me-2"></i>Back to Clients
+            </a>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @if (Model != null && Model.Any())
+    {
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+                // Prepare data for the weight chart
+                const weightCtx = document.getElementById('weightChart').getContext('2d');
+                const weightData = {
+                    labels: [@Html.Raw(string.Join(",", Model.OrderBy(l => l.Date).Select(l => $"'{l.Date.ToShortDateString()}'")))],
+                    datasets: [{
+                        label: 'Weight (kg)',
+                        data: [@string.Join(",", Model.OrderBy(l => l.Date).Select(l => l.Weight))],
+                        borderColor: 'rgb(75, 192, 192)',
+                        tension: 0.1,
+                        fill: false
+                    }]
+                };
+                
+                new Chart(weightCtx, {
+                    type: 'line',
+                    data: weightData,
+                    options: {
+                        responsive: true,
+                        plugins: {
+                            title: {
+                                display: true,
+                                text: 'Weight Progression'
+                            }
+                        },
+                        scales: {
+                            y: {
+                                beginAtZero: false
+                            }
+                        }
+                    }
+                });
+                
+                // Prepare data for the measurements chart
+                const measurementsCtx = document.getElementById('measurementsChart').getContext('2d');
+                const measurementsData = {
+                    labels: [@Html.Raw(string.Join(",", Model.OrderBy(l => l.Date).Select(l => $"'{l.Date.ToShortDateString()}'")))],
+                    datasets: [
+                        {
+                            label: 'Chest (cm)',
+                            data: [@string.Join(",", Model.OrderBy(l => l.Date).Select(l => l.Chest))],
+                            borderColor: 'rgb(255, 99, 132)',
+                            tension: 0.1,
+                            fill: false
+                        },
+                        {
+                            label: 'Waist (cm)',
+                            data: [@string.Join(",", Model.OrderBy(l => l.Date).Select(l => l.Waist))],
+                            borderColor: 'rgb(54, 162, 235)',
+                            tension: 0.1,
+                            fill: false
+                        },
+                        {
+                            label: 'Arms (cm)',
+                            data: [@string.Join(",", Model.OrderBy(l => l.Date).Select(l => l.Arms))],
+                            borderColor: 'rgb(255, 159, 64)',
+                            tension: 0.1,
+                            fill: false
+                        },
+                        {
+                            label: 'Thighs (cm)',
+                            data: [@string.Join(",", Model.OrderBy(l => l.Date).Select(l => l.Thighs))],
+                            borderColor: 'rgb(153, 102, 255)',
+                            tension: 0.1,
+                            fill: false
+                        }
+                    ]
+                };
+                
+                new Chart(measurementsCtx, {
+                    type: 'line',
+                    data: measurementsData,
+                    options: {
+                        responsive: true,
+                        plugins: {
+                            title: {
+                                display: true,
+                                text: 'Body Measurements'
+                            }
+                        },
+                        scales: {
+                            y: {
+                                beginAtZero: false
+                            }
+                        }
+                    }
+                });
+            });
+        </script>
+    }
+} 

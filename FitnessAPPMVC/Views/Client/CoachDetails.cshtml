@@ -1,0 +1,89 @@
+@model Fitness_App.BL.ViewModels.CoachViewModel
+
+@{
+    ViewData["Title"] = "Coach Profile";
+    Layout = "_Layout";
+    var workoutPlans = ViewBag.WorkoutPlans as List<Fitness_App.BL.ViewModels.WorkoutPlanViewModel>;
+}
+
+<div class="container mt-4">
+    <div class="row mb-4">
+        <div class="col-md-4 text-center">
+            @if (!string.IsNullOrEmpty(Model.ImageUrl))
+            {
+                <img src="@Model.ImageUrl" alt="@Model.Name" class="img-fluid rounded-circle mb-3" style="width: 200px; height: 200px; object-fit: cover;" />
+            }
+            else
+            {
+                <div class="bg-secondary text-white d-flex align-items-center justify-content-center mx-auto mb-3" style="width: 200px; height: 200px; border-radius: 50%;">
+                    <span class="display-4">@(Model.Name?.Substring(0, 1).ToUpper())</span>
+                </div>
+            }
+            <h2>@Model.Name</h2>
+            <p class="text-muted">@Model.Specialization</p>
+            @if (!string.IsNullOrEmpty(Model.Email))
+            {
+                <p><i class="fas fa-envelope me-2"></i>@Model.Email</p>
+            }
+        </div>
+        <div class="col-md-8">
+            <div class="card shadow-sm">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="mb-0">About Me</h4>
+                </div>
+                <div class="card-body">
+                    <p>@(string.IsNullOrEmpty(Model.Bio) ? "No bio available for this coach." : Model.Bio)</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mt-5">
+        <div class="col-12">
+            <div class="card shadow-sm">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="mb-0">Workout Plans by @Model.Name</h4>
+                </div>
+                <div class="card-body">
+                    @if (workoutPlans == null || !workoutPlans.Any())
+                    {
+                        <p class="text-muted text-center">No workout plans available from this coach yet.</p>
+                    }
+                    else
+                    {
+                        <div class="row row-cols-1 row-cols-md-2 g-4">
+                            @foreach (var plan in workoutPlans)
+                            {
+                                <div class="col">
+                                    <div class="card h-100">
+                                        <div class="card-body">
+                                            <h5 class="card-title">@plan.Title</h5>
+                                            <h6 class="card-subtitle mb-2 text-muted">Created: @plan.CreatedDate.ToString("MMM dd, yyyy")</h6>
+                                            <p class="card-text">
+                                                @(string.IsNullOrEmpty(plan.Description) ? "No description available." : 
+                                                (plan.Description.Length > 150 ? plan.Description.Substring(0, 150) + "..." : plan.Description))
+                                            </p>
+                                        </div>
+                                        <div class="card-footer bg-transparent">
+                                            <a asp-action="WorkoutPlanDetails" asp-route-id="@plan.Id" class="btn btn-outline-primary btn-sm">
+                                                View Plan Details
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-12">
+            <a asp-action="Coaches" class="btn btn-secondary">
+                <i class="fas fa-arrow-left"></i> Back to Coaches
+            </a>
+        </div>
+    </div>
+</div> 

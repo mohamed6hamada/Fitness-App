@@ -1,0 +1,66 @@
+@model Fitness_App.BL.ViewModels.ClientProgressViewModel
+
+<div class="container py-5">
+    <div class="row mb-4">
+        <div class="col-12 d-flex justify-content-between align-items-center">
+            <h1 class="display-4">Progress Logs for @Model.ClientName</h1>
+            <a asp-action="DownloadClientCsv" asp-route-clientId="@Model.ClientId" class="btn btn-success">
+                <i class="fas fa-download me-2"></i>Download as CSV
+            </a>
+        </div>
+    </div>
+
+    @if (!Model.ProgressLogs.Any())
+    {
+        <div class="alert alert-info">
+            No progress logs found for this client.
+        </div>
+    }
+    else
+    {
+        <div class="table-responsive">
+            <table class="table table-hover">
+                <thead class="table-light">
+                    <tr>
+                        <th>Date</th>
+                        <th>Weight (kg)</th>
+                        <th>Goal Weight (kg)</th>
+                        <th>Chest (cm)</th>
+                        <th>Waist (cm)</th>
+                        <th>Arms (cm)</th>
+                        <th>Thighs (cm)</th>
+                        <th>Notes</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var log in Model.ProgressLogs.OrderByDescending(l => l.Date))
+                    {
+                        <tr>
+                            <td>@log.Date.ToString("MM/dd/yyyy")</td>
+                            <td>@log.Weight</td>
+                            <td>@log.GoalWeight</td>
+                            <td>@log.Chest</td>
+                            <td>@log.Waist</td>
+                            <td>@log.Arms</td>
+                            <td>@log.Thighs</td>
+                            <td>@log.Notes</td>
+                            <td>
+                                <a href="@Url.Action("DownloadClientCsv", new { clientId = Model.ClientId })" class="btn btn-sm btn-success">
+                                    <i class="fas fa-download"></i> User CSV
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        // Add any client-side JavaScript for charts or interactivity here
+    </script>
+} 

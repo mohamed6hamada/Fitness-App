@@ -1,0 +1,179 @@
+@model Fitness_App.BL.ViewModels.UserManagementViewModel
+
+@{
+    ViewData["Title"] = "User Details";
+}
+
+<div class="container py-4">
+    <div class="row">
+        <div class="col-12 mb-4">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a asp-action="UserManagement">User Management</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">User Details</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <div class="card-body text-center">
+                    @if (!string.IsNullOrEmpty(Model.ProfilePicture))
+                    {
+                        <img src="@Model.ProfilePicture" alt="@Model.FullName" class="rounded-circle img-fluid mb-3" style="width: 150px; height: 150px; object-fit: cover;">
+                    }
+                    else
+                    {
+                        <img src="~/images/profiles/default-profile.png" alt="@Model.FullName" class="rounded-circle img-fluid mb-3" style="width: 150px; height: 150px; object-fit: cover;">
+                    }
+                    <h4>@Model.FullName</h4>
+                    <p class="text-muted">@Model.Email</p>
+                    
+                    @foreach (var role in Model.Roles)
+                    {
+                        <span class="badge bg-primary me-1">@role</span>
+                    }
+                    
+                    <div class="mt-3">
+                        @if (Model.IsActive)
+                        {
+                            <span class="badge bg-success">Active</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-danger">Suspended</span>
+                        }
+                        
+                        @if (Model.IsDeleted)
+                        {
+                            <span class="badge bg-dark">Deleted</span>
+                        }
+                    </div>
+                    
+                    <div class="mt-4">
+                        <a asp-controller="Profile" asp-action="View" asp-route-id="@Model.Id" class="btn btn-outline-primary">
+                            <i class="fas fa-user-circle me-1"></i> View Profile
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="card mt-3">
+                <div class="card-header bg-danger text-white">
+                    <h5 class="mb-0">Danger Zone</h5>
+                </div>
+                <div class="card-body">
+                    <div class="d-grid gap-2">
+                        <form asp-action="ToggleUserStatus" method="post" onsubmit="return confirm('Are you sure you want to @(Model.IsActive ? "suspend" : "activate") this user?');">
+                            <input type="hidden" name="id" value="@Model.Id" />
+                            <button type="submit" class="btn @(Model.IsActive ? "btn-warning" : "btn-success") w-100 mb-2">
+                                <i class="fas @(Model.IsActive ? "fa-ban" : "fa-check") me-1"></i>
+                                @(Model.IsActive ? "Suspend User" : "Activate User")
+                            </button>
+                        </form>
+                        
+                        @if (!Model.IsDeleted)
+                        {
+                            <form asp-action="SoftDeleteUser" method="post" onsubmit="return confirm('Are you sure you want to mark this user as deleted?');">
+                                <input type="hidden" name="id" value="@Model.Id" />
+                                <button type="submit" class="btn btn-danger w-100 mb-2">
+                                    <i class="fas fa-trash me-1"></i> Mark as Deleted
+                                </button>
+                            </form>
+                        }
+                        
+                        <button type="button" class="btn btn-outline-danger w-100" data-bs-toggle="modal" data-bs-target="#permanentDeleteModal">
+                            <i class="fas fa-trash-alt me-1"></i> Permanently Delete
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-8">
+            <div class="card mb-4">
+                <div class="card-header bg-primary text-white">
+                    <h5 class="mb-0">User Information</h5>
+                </div>
+                <div class="card-body">
+                    <div class="row mb-3">
+                        <div class="col-md-4 fw-bold">Full Name:</div>
+                        <div class="col-md-8">@Model.FullName</div>
+                    </div>
+                    <div class="row mb-3">
+                        <div class="col-md-4 fw-bold">Email:</div>
+                        <div class="col-md-8">@Model.Email</div>
+                    </div>
+                    <div class="row mb-3">
+                        <div class="col-md-4 fw-bold">Phone Number:</div>
+                        <div class="col-md-8">@(string.IsNullOrEmpty(Model.PhoneNumber) ? "Not provided" : Model.PhoneNumber)</div>
+                    </div>
+                    <div class="row mb-3">
+                        <div class="col-md-4 fw-bold">Member Since:</div>
+                        <div class="col-md-8">@Model.MemberSince.ToString("MMMM d, yyyy")</div>
+                    </div>
+                    <div class="row mb-3">
+                        <div class="col-md-4 fw-bold">Last Login:</div>
+                        <div class="col-md-8">
+                            @if (Model.LastLogin.HasValue)
+                            {
+                                @Model.LastLogin.Value.ToString("MMMM d, yyyy h:mm tt")
+                            }
+                            else
+                            {
+                                <span class="text-muted">Never logged in</span>
+                            }
+                        </div>
+                    </div>
+                    <div class="row mb-3">
+                        <div class="col-md-4 fw-bold">Progress Logs:</div>
+                        <div class="col-md-8">
+                            @if (Model.ProgressLogsCount > 0)
+                            {
+                                <span>@Model.ProgressLogsCount log(s)</span>
+                                <a asp-action="ViewUserProgress" asp-route-userId="@Model.Id" class="btn btn-sm btn-outline-primary ms-2">
+                                    <i class="fas fa-chart-line me-1"></i> View Progress
+                                </a>
+                            }
+                            else
+                            {
+                                <span class="text-muted">No progress logs</span>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Permanent Delete Modal -->
+<div class="modal fade" id="permanentDeleteModal" tabindex="-1" aria-labelledby="permanentDeleteModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header bg-danger text-white">
+                <h5 class="modal-title" id="permanentDeleteModalLabel">Permanent Deletion Warning</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="alert alert-warning">
+                    <i class="fas fa-exclamation-triangle me-2"></i> Warning: This action cannot be undone!
+                </div>
+                <p>You are about to permanently delete the user <strong>@Model.FullName (@Model.Email)</strong>.</p>
+                <p>All data associated with this user, including profile information and progress logs, will be permanently removed from the system.</p>
+                <p>Are you absolutely sure you want to proceed?</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                <form asp-action="PermanentDeleteUser" method="post">
+                    <input type="hidden" name="id" value="@Model.Id" />
+                    <button type="submit" class="btn btn-danger">
+                        <i class="fas fa-trash-alt me-1"></i> Permanently Delete
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div> 

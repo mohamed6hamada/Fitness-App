@@ -1,0 +1,9 @@
+﻿@{
+    ViewBag.Title = "Subscription Canceled";
+}
+
+<div class="text-center mt-5">
+    <h2 class="text-danger">Payment Canceled</h2>
+    <p>@ViewBag.Message</p>
+    <a href="@Url.Action("GetSubscriptionPlansForClient", "Client")" class="btn btn-primary mt-3">Back to Plans</a>
+</div>

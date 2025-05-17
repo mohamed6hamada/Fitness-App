@@ -1,0 +1,213 @@
+@model Fitness_App.BL.ViewModels.ProfileViewModel
+
+@{
+    ViewData["Title"] = "Edit Profile";
+}
+
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-10">
+            <div class="card shadow-sm">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="mb-0">Edit Your Profile</h4>
+                </div>
+                <div class="card-body">
+                    <div class="alert alert-info">
+                        <i class="fas fa-info-circle me-2"></i> Only your full name is required. All other fields are optional.
+                    </div>
+                    
+                    <form asp-action="Edit" method="post" enctype="multipart/form-data" id="profileForm">
+                        <input type="hidden" asp-for="Id" />
+                        <input type="hidden" asp-for="Email" />
+                        <input type="hidden" asp-for="TotalProgressLogs" />
+                        <input type="hidden" asp-for="WeightChange" />
+                        <input type="hidden" asp-for="MemberSince" />
+                        <input type="hidden" asp-for="ProfilePicture" />
+
+                        <div asp-validation-summary="ModelOnly" class="text-danger mb-4"></div>
+
+                        <div class="row">
+                            <!-- Personal Information -->
+                            <div class="col-md-6">
+                                <h5 class="mb-3">Personal Information</h5>
+
+                                <div class="mb-3">
+                                    <label asp-for="FullName" class="form-label">
+                                        <span class="text-danger me-1">*</span>Full Name
+                                    </label>
+                                    <input asp-for="FullName" class="form-control" />
+                                    <span asp-validation-for="FullName" class="text-danger"></span>
+                                </div>
+
+                                <div class="mb-3">
+                                    <label asp-for="PhoneNumber" class="form-label">Phone Number</label>
+                                    <input asp-for="PhoneNumber" class="form-control" placeholder="Enter your phone number" />
+                                </div>
+
+                                <div class="mb-3">
+                                    <label asp-for="Gender" class="form-label">Gender</label>
+                                    <select asp-for="Gender" class="form-select">
+                                        <option value="">-- Select Gender --</option>
+                                        <option value="Male">Male</option>
+                                        <option value="Female">Female</option>
+                                        <option value="Non-binary">Non-binary</option>
+                                        <option value="Prefer not to say">Prefer not to say</option>
+                                    </select>
+                                </div>
+
+                                <div class="mb-3">
+                                    <label asp-for="DateOfBirth" class="form-label">Date of Birth</label>
+                                    <input asp-for="DateOfBirth" class="form-control" type="date" />
+                                </div>
+
+                                <div class="mb-3">
+                                    <label asp-for="Height" class="form-label">Height in cm</label>
+                                    <input asp-for="Height" class="form-control" placeholder="Enter your height in centimeters" />
+                                </div>
+
+                                <div class="mb-3">
+                                    <label asp-for="Bio" class="form-label">Bio</label>
+                                    <textarea asp-for="Bio" class="form-control" rows="4" placeholder="Tell us about yourself..."></textarea>
+                                </div>
+                            </div>
+
+                            <!-- Profile Picture & Social Media -->
+                            <div class="col-md-6">
+                                <h5 class="mb-3">Profile Picture & Social Media</h5>
+
+                                <div class="mb-4">
+                                    <label asp-for="ProfilePictureFile" class="form-label">Profile Picture</label>
+                                    <div class="d-flex align-items-center mb-2">
+                                        @if (!string.IsNullOrEmpty(Model.ProfilePicture))
+                                        {
+                                            <img src="@Model.ProfilePicture" alt="Current Profile Picture" class="rounded-circle me-3" style="width: 60px; height: 60px; object-fit: cover;">
+                                            <span class="small">Current profile picture</span>
+                                        }
+                                        else
+                                        {
+                                            <img src="~/images/profiles/default-profile.png" alt="Default Profile Picture" class="rounded-circle me-3" style="width: 60px; height: 60px; object-fit: cover;">
+                                            <span class="small">Default profile picture</span>
+                                        }
+                                    </div>
+                                    <input asp-for="ProfilePictureFile" class="form-control" type="file" accept="image/*" />
+                                    <div class="form-text">Recommended size: 500x500 pixels</div>
+                                </div>
+
+                                <h6 class="mb-3">Social Media Links</h6>
+
+                                <div class="mb-3">
+                                    <label asp-for="FacebookUrl" class="form-label">Facebook URL</label>
+                                    <div class="input-group">
+                                        <span class="input-group-text"><i class="fab fa-facebook"></i></span>
+                                        <input asp-for="FacebookUrl" class="form-control" placeholder="https://facebook.com/yourusername" />
+                                    </div>
+                                </div>
+
+                                <div class="mb-3">
+                                    <label asp-for="InstagramUrl" class="form-label">Instagram URL</label>
+                                    <div class="input-group">
+                                        <span class="input-group-text"><i class="fab fa-instagram"></i></span>
+                                        <input asp-for="InstagramUrl" class="form-control" placeholder="https://instagram.com/yourusername" />
+                                    </div>
+                                </div>
+
+                                <div class="mb-3">
+                                    <label asp-for="TwitterUrl" class="form-label">Twitter URL</label>
+                                    <div class="input-group">
+                                        <span class="input-group-text"><i class="fab fa-twitter"></i></span>
+                                        <input asp-for="TwitterUrl" class="form-control" placeholder="https://twitter.com/yourusername" />
+                                    </div>
+                                </div>
+
+                                <div class="mb-3">
+                                    <label asp-for="LinkedInUrl" class="form-label">LinkedIn URL</label>
+                                    <div class="input-group">
+                                        <span class="input-group-text"><i class="fab fa-linkedin"></i></span>
+                                        <input asp-for="LinkedInUrl" class="form-control" placeholder="https://linkedin.com/in/yourusername" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Fitness Goals Section -->
+                        <div class="mt-4">
+                            <h5 class="mb-3">Fitness Information</h5>
+                            <div class="row">
+                                <div class="col-md-12 mb-3">
+                                    <label asp-for="FitnessGoals" class="form-label">Fitness Goals</label>
+                                    <textarea asp-for="FitnessGoals" class="form-control" rows="3" placeholder="What are your fitness goals?"></textarea>
+                                </div>
+                                <div class="col-md-12 mb-3">
+                                    <label asp-for="PreferredWorkoutTimes" class="form-label">Preferred Workout Times</label>
+                                    <select asp-for="PreferredWorkoutTimes" class="form-select">
+                                        <option value="">-- Select Preferred Times --</option>
+                                        <option value="Early Morning (5am-8am)">Early Morning (5am-8am)</option>
+                                        <option value="Morning (8am-11am)">Morning (8am-11am)</option>
+                                        <option value="Afternoon (11am-3pm)">Afternoon (11am-3pm)</option>
+                                        <option value="Evening (3pm-7pm)">Evening (3pm-7pm)</option>
+                                        <option value="Night (7pm-11pm)">Night (7pm-11pm)</option>
+                                        <option value="Varies/Flexible">Varies/Flexible</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="mt-4 d-flex justify-content-between">
+                            <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+                            <button type="submit" class="btn btn-primary">Save Changes</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    
+    <script>
+        // Custom validation to allow empty fields except for FullName
+        $(document).ready(function() {
+            // Override the jQuery validation to always accept empty values for optional fields
+            $.validator.setDefaults({
+                ignore: [],
+                // Override the validation for empty URL fields
+                rules: {
+                    FacebookUrl: { 
+                        url: function(element) {
+                            return element.value.length > 0; 
+                        }
+                    },
+                    InstagramUrl: { 
+                        url: function(element) {
+                            return element.value.length > 0; 
+                        }
+                    },
+                    TwitterUrl: { 
+                        url: function(element) {
+                            return element.value.length > 0; 
+                        }
+                    },
+                    LinkedInUrl: { 
+                        url: function(element) {
+                            return element.value.length > 0; 
+                        }
+                    }
+                }
+            });
+            
+            // Handle form submission
+            $("#profileForm").submit(function(e) {
+                // Only validate FullName as required
+                if ($("#FullName").val().trim() === "") {
+                    e.preventDefault();
+                    $("#FullName").addClass("is-invalid");
+                    return false;
+                }
+                
+                return true;
+            });
+        });
+    </script>
+} 

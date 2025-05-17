@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E261E123-1230-4421-8DF4-D34B1E968012}|Fitness App.BL\\Fitness App.BL.csproj|d:\\\u062E\u0644\u0635\\depi graduate project\\new folder\\fitnessappmvcsol\\fitness app.bl\\services\\stripeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E261E123-1230-4421-8DF4-D34B1E968012}|Fitness App.BL\\Fitness App.BL.csproj|solutionrelative:fitness app.bl\\services\\stripeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|d:\\\u062E\u0644\u0635\\depi graduate project\\new folder\\fitnessappmvcsol\\fitnessappmvc\\views\\admin\\coaches.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|solutionrelative:fitnessappmvc\\views\\admin\\coaches.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|d:\\\u062E\u0644\u0635\\depi graduate project\\new folder\\fitnessappmvcsol\\fitnessappmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|solutionrelative:fitnessappmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|d:\\\u062E\u0644\u0635\\depi graduate project\\new folder\\fitnessappmvcsol\\fitnessappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|solutionrelative:fitnessappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E261E123-1230-4421-8DF4-D34B1E968012}|Fitness App.BL\\Fitness App.BL.csproj|d:\\\u062E\u0644\u0635\\depi graduate project\\new folder\\fitnessappmvcsol\\fitness app.bl\\viewmodels\\workoutplanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E261E123-1230-4421-8DF4-D34B1E968012}|Fitness App.BL\\Fitness App.BL.csproj|solutionrelative:fitness app.bl\\viewmodels\\workoutplanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|d:\\\u062E\u0644\u0635\\depi graduate project\\new folder\\fitnessappmvcsol\\fitnessappmvc\\views\\shared\\_adminstyles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|solutionrelative:fitnessappmvc\\views\\shared\\_adminstyles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E261E123-1230-4421-8DF4-D34B1E968012}|Fitness App.BL\\Fitness App.BL.csproj|d:\\\u062E\u0644\u0635\\depi graduate project\\new folder\\fitnessappmvcsol\\fitness app.bl\\services\\coachservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E261E123-1230-4421-8DF4-D34B1E968012}|Fitness App.BL\\Fitness App.BL.csproj|solutionrelative:fitness app.bl\\services\\coachservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|d:\\\u062E\u0644\u0635\\depi graduate project\\new folder\\fitnessappmvcsol\\fitnessappmvc\\views\\admin\\addcoach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|solutionrelative:fitnessappmvc\\views\\admin\\addcoach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E261E123-1230-4421-8DF4-D34B1E968012}|Fitness App.BL\\Fitness App.BL.csproj|d:\\\u062E\u0644\u0635\\depi graduate project\\new folder\\fitnessappmvcsol\\fitness app.bl\\viewmodels\\coachviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E261E123-1230-4421-8DF4-D34B1E968012}|Fitness App.BL\\Fitness App.BL.csproj|solutionrelative:fitness app.bl\\viewmodels\\coachviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|d:\\\u062E\u0644\u0635\\depi graduate project\\new folder\\fitnessappmvcsol\\fitnessappmvc\\views\\client\\selectcoach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|solutionrelative:fitnessappmvc\\views\\client\\selectcoach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|d:\\\u062E\u0644\u0635\\depi graduate project\\new folder\\fitnessappmvcsol\\fitnessappmvc\\views\\coach\\clientprogresslogs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|solutionrelative:fitnessappmvc\\views\\coach\\clientprogresslogs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|d:\\\u062E\u0644\u0635\\depi graduate project\\new folder\\fitnessappmvcsol\\fitnessappmvc\\controllers\\coachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|solutionrelative:fitnessappmvc\\controllers\\coachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E261E123-1230-4421-8DF4-D34B1E968012}|Fitness App.BL\\Fitness App.BL.csproj|d:\\\u062E\u0644\u0635\\depi graduate project\\new folder\\fitnessappmvcsol\\fitness app.bl\\viewmodels\\clientprogressviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E261E123-1230-4421-8DF4-D34B1E968012}|Fitness App.BL\\Fitness App.BL.csproj|solutionrelative:fitness app.bl\\viewmodels\\clientprogressviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|d:\\\u062E\u0644\u0635\\depi graduate project\\new folder\\fitnessappmvcsol\\fitnessappmvc\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|solutionrelative:fitnessappmvc\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|d:\\\u062E\u0644\u0635\\depi graduate project\\new folder\\fitnessappmvcsol\\fitnessappmvc\\views\\coach\\myworkoutplans.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|solutionrelative:fitnessappmvc\\views\\coach\\myworkoutplans.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|d:\\\u062E\u0644\u0635\\depi graduate project\\new folder\\fitnessappmvcsol\\fitnessappmvc\\views\\coach\\addworkoutplan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|solutionrelative:fitnessappmvc\\views\\coach\\addworkoutplan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|d:\\\u062E\u0644\u0635\\depi graduate project\\new folder\\fitnessappmvcsol\\fitnessappmvc\\views\\client\\myworkoutplan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75853134-973A-4A91-ABBD-6D74953BF028}|FitnessAPPMVC\\FitnessAPPMVC.csproj|solutionrelative:fitnessappmvc\\views\\client\\myworkoutplan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E261E123-1230-4421-8DF4-D34B1E968012}|Fitness App.BL\\Fitness App.BL.csproj|d:\\\u062E\u0644\u0635\\depi graduate project\\new folder\\fitnessappmvcsol\\fitness app.bl\\services\\workoutplanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E261E123-1230-4421-8DF4-D34B1E968012}|Fitness App.BL\\Fitness App.BL.csproj|solutionrelative:fitness app.bl\\services\\workoutplanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StripeService.cs",
+              "DocumentMoniker": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\Fitness App.BL\\Services\\StripeService.cs",
+              "RelativeDocumentMoniker": "Fitness App.BL\\Services\\StripeService.cs",
+              "ToolTip": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\Fitness App.BL\\Services\\StripeService.cs",
+              "RelativeToolTip": "Fitness App.BL\\Services\\StripeService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:55:18.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coaches.cshtml",
+              "DocumentMoniker": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Admin\\Coaches.cshtml",
+              "RelativeDocumentMoniker": "FitnessAPPMVC\\Views\\Admin\\Coaches.cshtml",
+              "ToolTip": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Admin\\Coaches.cshtml",
+              "RelativeToolTip": "FitnessAPPMVC\\Views\\Admin\\Coaches.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T12:21:58.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_AdminStyles.cshtml",
+              "DocumentMoniker": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Shared\\_AdminStyles.cshtml",
+              "RelativeDocumentMoniker": "FitnessAPPMVC\\Views\\Shared\\_AdminStyles.cshtml",
+              "ToolTip": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Shared\\_AdminStyles.cshtml",
+              "RelativeToolTip": "FitnessAPPMVC\\Views\\Shared\\_AdminStyles.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAuwHwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T02:01:34.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FitnessAPPMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FitnessAPPMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T01:33:06.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoachService.cs",
+              "DocumentMoniker": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\Fitness App.BL\\Services\\CoachService.cs",
+              "RelativeDocumentMoniker": "Fitness App.BL\\Services\\CoachService.cs",
+              "ToolTip": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\Fitness App.BL\\Services\\CoachService.cs",
+              "RelativeToolTip": "Fitness App.BL\\Services\\CoachService.cs",
+              "ViewState": "AgIAAD0BAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:02:01.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CoachViewModel.cs",
+              "DocumentMoniker": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\Fitness App.BL\\ViewModels\\CoachViewModel.cs",
+              "RelativeDocumentMoniker": "Fitness App.BL\\ViewModels\\CoachViewModel.cs",
+              "ToolTip": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\Fitness App.BL\\ViewModels\\CoachViewModel.cs",
+              "RelativeToolTip": "Fitness App.BL\\ViewModels\\CoachViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:21:14.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddCoach.cshtml",
+              "DocumentMoniker": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Admin\\AddCoach.cshtml",
+              "RelativeDocumentMoniker": "FitnessAPPMVC\\Views\\Admin\\AddCoach.cshtml",
+              "ToolTip": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Admin\\AddCoach.cshtml",
+              "RelativeToolTip": "FitnessAPPMVC\\Views\\Admin\\AddCoach.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAEEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T00:30:02.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SelectCoach.cshtml",
+              "DocumentMoniker": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Client\\SelectCoach.cshtml",
+              "RelativeDocumentMoniker": "FitnessAPPMVC\\Views\\Client\\SelectCoach.cshtml",
+              "ToolTip": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Client\\SelectCoach.cshtml",
+              "RelativeToolTip": "FitnessAPPMVC\\Views\\Client\\SelectCoach.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T00:29:54.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientProgressLogs.cshtml",
+              "DocumentMoniker": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Coach\\ClientProgressLogs.cshtml",
+              "RelativeDocumentMoniker": "FitnessAPPMVC\\Views\\Coach\\ClientProgressLogs.cshtml",
+              "ToolTip": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Coach\\ClientProgressLogs.cshtml",
+              "RelativeToolTip": "FitnessAPPMVC\\Views\\Coach\\ClientProgressLogs.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAWwDEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T00:02:23.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientProgressViewModel.cs",
+              "DocumentMoniker": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\Fitness App.BL\\ViewModels\\ClientProgressViewModel.cs",
+              "RelativeDocumentMoniker": "Fitness App.BL\\ViewModels\\ClientProgressViewModel.cs",
+              "ToolTip": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\Fitness App.BL\\ViewModels\\ClientProgressViewModel.cs",
+              "RelativeToolTip": "Fitness App.BL\\ViewModels\\ClientProgressViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:01:04.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\FitnessAPPMVC\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "FitnessAPPMVC\\Controllers\\ClientController.cs",
+              "ToolTip": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\FitnessAPPMVC\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "FitnessAPPMVC\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T23:48:45.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MyWorkoutPlans.cshtml",
+              "DocumentMoniker": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Coach\\MyWorkoutPlans.cshtml",
+              "RelativeDocumentMoniker": "FitnessAPPMVC\\Views\\Coach\\MyWorkoutPlans.cshtml",
+              "ToolTip": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Coach\\MyWorkoutPlans.cshtml",
+              "RelativeToolTip": "FitnessAPPMVC\\Views\\Coach\\MyWorkoutPlans.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T23:38:51.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MyWorkoutPlan.cshtml",
+              "DocumentMoniker": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Client\\MyWorkoutPlan.cshtml",
+              "RelativeDocumentMoniker": "FitnessAPPMVC\\Views\\Client\\MyWorkoutPlan.cshtml",
+              "ToolTip": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Client\\MyWorkoutPlan.cshtml",
+              "RelativeToolTip": "FitnessAPPMVC\\Views\\Client\\MyWorkoutPlan.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T22:42:35.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkoutPlanViewModel.cs",
+              "DocumentMoniker": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\Fitness App.BL\\ViewModels\\WorkoutPlanViewModel.cs",
+              "RelativeDocumentMoniker": "Fitness App.BL\\ViewModels\\WorkoutPlanViewModel.cs",
+              "ToolTip": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\Fitness App.BL\\ViewModels\\WorkoutPlanViewModel.cs",
+              "RelativeToolTip": "Fitness App.BL\\ViewModels\\WorkoutPlanViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:38:08.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddWorkoutPlan.cshtml",
+              "DocumentMoniker": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Coach\\AddWorkoutPlan.cshtml",
+              "RelativeDocumentMoniker": "FitnessAPPMVC\\Views\\Coach\\AddWorkoutPlan.cshtml",
+              "ToolTip": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Coach\\AddWorkoutPlan.cshtml",
+              "RelativeToolTip": "FitnessAPPMVC\\Views\\Coach\\AddWorkoutPlan.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T22:38:38.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FitnessAPPMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\FitnessAPPMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FitnessAPPMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAswK4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T21:55:31.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WorkoutPlanService.cs",
+              "DocumentMoniker": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\Fitness App.BL\\Services\\WorkoutPlanService.cs",
+              "RelativeDocumentMoniker": "Fitness App.BL\\Services\\WorkoutPlanService.cs",
+              "ToolTip": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\Fitness App.BL\\Services\\WorkoutPlanService.cs",
+              "RelativeToolTip": "Fitness App.BL\\Services\\WorkoutPlanService.cs",
+              "ViewState": "AgIAACUBAAAAAAAAAAAjwDUBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T21:39:50.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CoachController.cs",
+              "DocumentMoniker": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\FitnessAPPMVC\\Controllers\\CoachController.cs",
+              "RelativeDocumentMoniker": "FitnessAPPMVC\\Controllers\\CoachController.cs",
+              "ToolTip": "D:\\\u062E\u0644\u0635\\depi graduate project\\New folder\\FitnessAPPMVCSol\\FitnessAPPMVC\\Controllers\\CoachController.cs",
+              "RelativeToolTip": "FitnessAPPMVC\\Controllers\\CoachController.cs",
+              "ViewState": "AgIAAN8CAAAAAAAAAAAawPcCAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T21:39:40.142Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

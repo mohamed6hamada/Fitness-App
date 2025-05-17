@@ -1,0 +1,313 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<!-- Hero Section -->
+<section class="hero bg-primary text-white py-5">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <h1 class="display-4 fw-bold mb-4">Transform Your Life With Our Fitness App</h1>
+                <p class="lead mb-4">Track progress, access personalized workouts,and achieve your fitness goals with our all-in-one platform.</p>
+                <div class="d-grid gap-2 d-md-flex">
+                    <a asp-controller="Account" asp-action="Register" class="btn btn-light btn-lg px-4 me-md-2">Get Started</a>
+                   
+                </div>
+            </div>
+            <div class="col-lg-6 d-none d-lg-block">
+                <img src="~/img/fitness-hero.jpg" alt="Fitness App" class="img-fluid rounded-3 shadow" onerror="this.src='https://via.placeholder.com/600x400?text=Fitness+App'">
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Features Section -->
+<section class="features py-5">
+    <div class="container">
+        <div class="text-center mb-5">
+            <h2 class="display-5 fw-bold">Why Choose Our Fitness App</h2>
+            <p class="lead text-muted">Everything you need for your fitness journey in one place</p>
+        </div>
+        
+        <div class="row g-4">
+            <div class="col-md-4">
+                <div class="card h-100 shadow-sm border-0">
+                    <div class="card-body text-center p-4">
+                        <div class="feature-icon bg-primary bg-gradient text-white rounded-circle mb-3">
+                            <i class="fas fa-chart-line fa-2x p-3"></i>
+                        </div>
+                        <h3 class="fs-4">Progress Tracking</h3>
+                        <p class="mb-0">Monitor your weight, measurements, and goals with easy-to-use tools and visualize your journey with charts.</p>
+                    </div>
+                    <div class="card-footer bg-transparent border-0 text-center">
+                        @* <a asp-controller="Client" asp-action="Index" class="btn btn-outline-primary">Track Now</a> *@
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="card h-100 shadow-sm border-0">
+                    <div class="card-body text-center p-4">
+                        <div class="feature-icon bg-success bg-gradient text-white rounded-circle mb-3">
+                            <i class="fas fa-dumbbell fa-2x p-3"></i>
+                        </div>
+                        <h3 class="fs-4">Custom Workouts</h3>
+                        <p class="mb-0">Access personalized exercise routines designed to match your fitness level, goals, and available equipment.</p>
+                    </div>
+                    <div class="card-footer bg-transparent border-0 text-center">
+                       @*  <a asp-controller="Client" asp-action="GetExercisesForClient" class="btn btn-outline-success">View Exercises</a> *@
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="card h-100 shadow-sm border-0">
+                    <div class="card-body text-center p-4">
+                        <div class="feature-icon bg-info bg-gradient text-white rounded-circle mb-3">
+                            <i class="fas fa-apple-alt fa-2x p-3"></i>
+                        </div>
+                        <h3 class="fs-4">Nutrition Plans</h3>
+                        <p class="mb-0">Discover diet plans curated by nutrition experts to complement your workouts and maximize your results.</p>
+                    </div>
+                    <div class="card-footer bg-transparent border-0 text-center">
+                       @*  <a asp-controller="Client" asp-action="AllDietPlans" class="btn btn-outline-info">View Diet Plans</a> *@
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Blog Preview Section -->
+<section class="blog-preview py-5 bg-light">
+    <div class="container">
+        <div class="d-flex align-items-center justify-content-between mb-4">
+            <h2 class="display-5 fw-bold mb-0">Latest Fitness Tips</h2>
+            @* <a asp-controller="Client" asp-action="AllBlogs" class="btn btn-primary">View All</a> *@
+        </div>
+        
+        <div class="row g-4">
+            @if (ViewBag.LatestBlogs != null && ViewBag.LatestBlogs.Count > 0)
+            {
+                @foreach (var blog in ViewBag.LatestBlogs)
+                {
+                    <div class="col-md-4">
+                        <div class="card h-100 shadow-sm">
+                            @if (!string.IsNullOrEmpty(blog.ImagePath))
+                            {
+                                <img src="@blog.ImagePath" class="card-img-top" alt="@blog.BlogTitle" style="height: 200px; object-fit: cover;">
+                            }
+                            else
+                            {
+                                <img src="https://via.placeholder.com/300x200?text=Fitness+Blog" class="card-img-top" alt="Blog Post">
+                            }
+                            <div class="card-body">
+                                <h5 class="card-title fw-bold">@blog.BlogTitle</h5>
+                                <p class="card-text text-muted mb-3">
+                                    <small><i class="fas fa-calendar-alt me-1"></i> @blog.CreatedAt.ToString("MMM dd, yyyy")</small>
+                                </p>
+                                <div class="card-text blog-content">
+                                    @if (!string.IsNullOrEmpty(blog.BlogContent))
+                                    {
+                                        var content = blog.BlogContent.Length > 300 
+                                            ? blog.BlogContent.Substring(0, 300) + "..."
+                                            : blog.BlogContent;
+                                            
+                                        @foreach (var paragraph in content.Split(new[] { "\r\n\r\n", "\n\n", "\r\r" }, StringSplitOptions.None))
+                                        {
+                                            if (!string.IsNullOrWhiteSpace(paragraph))
+                                            {
+                                                <p class="mb-2">@Html.Raw(paragraph.Replace("\n", "<br />").Trim())</p>
+                                            }
+                                        }
+                                    }
+                                </div>
+                            </div>
+                            <div class="card-footer bg-transparent border-0">
+                                @* <a href="#" class="btn btn-sm btn-outline-primary">
+                                    <i class="fas fa-book-open me-1"></i> Read More
+                                </a> *@
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <!-- Fallback content if no blogs available -->
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm">
+                        <img src="https://via.placeholder.com/300x200?text=Fitness+Blog" class="card-img-top" alt="Blog Post">
+                        <div class="card-body">
+                            <h5 class="card-title">5 Essential Workout Tips</h5>
+                            <p class="card-text">Maximize your workout efficiency and results with these expert tips.</p>
+                        </div>
+                        <div class="card-footer bg-transparent border-0">
+                            @* <a href="#" class="btn btn-sm btn-outline-primary">Read More</a> *@
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm">
+                        <img src="https://via.placeholder.com/300x200?text=Nutrition" class="card-img-top" alt="Blog Post">
+                        <div class="card-body">
+                            <h5 class="card-title">Nutrition Basics Everyone Should Know</h5>
+                            <p class="card-text">Understanding macros and how to balance your diet for optimal performance.</p>
+                        </div>
+                        <div class="card-footer bg-transparent border-0">
+                            @* <a href="#" class="btn btn-sm btn-outline-primary">Read More</a> *@
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-4">
+                    <div class="card h-100 shadow-sm">
+                        <img src="https://via.placeholder.com/300x200?text=Recovery" class="card-img-top" alt="Blog Post">
+                        <div class="card-body">
+                            <h5 class="card-title">Recovery Strategies That Work</h5>
+                            <p class="card-text">Learn how proper recovery techniques can improve your performance and results.</p>
+                        </div>
+                        <div class="card-footer bg-transparent border-0">
+                            @* <a href="#" class="btn btn-sm btn-outline-primary">Read More</a> *@
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+<!-- Testimonials Section -->
+<section class="testimonials py-5">
+    <div class="container">
+        <div class="text-center mb-5">
+            <h2 class="display-5 fw-bold">What Our Users Say</h2>
+            <p class="lead text-muted">Success stories from our community</p>
+        </div>
+        
+        <div class="row g-4">
+            <div class="col-md-6 col-lg-4">
+                <div class="card h-100 border-0 shadow-sm">
+                    <div class="card-body p-4">
+                        <div class="d-flex mb-3">
+                            <i class="fas fa-star text-warning"></i>
+                            <i class="fas fa-star text-warning"></i>
+                            <i class="fas fa-star text-warning"></i>
+                            <i class="fas fa-star text-warning"></i>
+                            <i class="fas fa-star text-warning"></i>
+                        </div>
+                        <p class="mb-4">"This app has transformed my approach to fitness. The progress tracking is incredibly motivating and the exercise library is extensive."</p>
+                        <div class="d-flex align-items-center">
+                            <div class="rounded-circle bg-primary text-white d-flex align-items-center justify-content-center me-3" style="width: 50px; height: 50px;">JD</div>
+                            <div>
+                                <h5 class="mb-0">John Doe</h5>
+                                <small class="text-muted">Lost 15kg in 6 months</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-6 col-lg-4">
+                <div class="card h-100 border-0 shadow-sm">
+                    <div class="card-body p-4">
+                        <div class="d-flex mb-3">
+                            <i class="fas fa-star text-warning"></i>
+                            <i class="fas fa-star text-warning"></i>
+                            <i class="fas fa-star text-warning"></i>
+                            <i class="fas fa-star text-warning"></i>
+                            <i class="fas fa-star text-warning"></i>
+                        </div>
+                        <p class="mb-4">"The diet plans are excellent and really helped me understand nutrition better. I've gained muscle and improved my overall health."</p>
+                        <div class="d-flex align-items-center">
+                            <div class="rounded-circle bg-success text-white d-flex align-items-center justify-content-center me-3" style="width: 50px; height: 50px;">JS</div>
+                            <div>
+                                <h5 class="mb-0">Jane Smith</h5>
+                                <small class="text-muted">Gained 8kg of muscle</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-6 col-lg-4">
+                <div class="card h-100 border-0 shadow-sm">
+                    <div class="card-body p-4">
+                        <div class="d-flex mb-3">
+                            <i class="fas fa-star text-warning"></i>
+                            <i class="fas fa-star text-warning"></i>
+                            <i class="fas fa-star text-warning"></i>
+                            <i class="fas fa-star text-warning"></i>
+                            <i class="fas fa-star text-warning"></i>
+                        </div>
+                        <p class="mb-4">"The community support through comments and blogs makes this app stand out. I love sharing progress and getting feedback."</p>
+                        <div class="d-flex align-items-center">
+                            <div class="rounded-circle bg-info text-white d-flex align-items-center justify-content-center me-3" style="width: 50px; height: 50px;">RJ</div>
+                            <div>
+                                <h5 class="mb-0">Robert Johnson</h5>
+                                <small class="text-muted">Marathon runner</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Call to Action -->
+<section class="cta bg-primary text-white text-center py-5">
+    <div class="container">
+        <h2 class="display-5 fw-bold mb-3">Ready to Start Your Fitness Journey?</h2>
+        <p class="lead mb-4">Join thousands of users who are transforming their lives with our app.</p>
+        <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+            <a asp-controller="Account" asp-action="Register" class="btn btn-light btn-lg px-4 gap-3">Sign Up Now</a>
+            <a asp-controller="Account" asp-action="Login" class="btn btn-outline-light btn-lg px-4">Sign In</a>
+        </div>
+    </div>
+</section>
+
+@section Styles {
+    <style>
+        .feature-icon {
+            width: 64px;
+            height: 64px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .blog-content {
+            font-size: 0.95rem;
+            line-height: 1.6;
+            color: #4a4a4a;
+            max-height: 300px;
+            overflow: hidden;
+            white-space: pre-line;
+        }
+        
+        .blog-content p {
+            text-align: justify;
+            margin-bottom: 1rem;
+            padding: 0 0.5rem;
+        }
+        
+        .card-title {
+            color: #2c3e50;
+            font-size: 1.25rem;
+            margin-bottom: 0.5rem;
+            padding: 0 0.5rem;
+        }
+
+        .card-body {
+            padding: 1.5rem;
+        }
+
+        .blog-content br {
+            display: block;
+            margin: 0.5rem 0;
+            content: "";
+        }
+    </style>
+}

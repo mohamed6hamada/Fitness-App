@@ -1,0 +1,189 @@
+@model IEnumerable<Fitness_App.BL.ViewModels.ClientCoachSubscriptionViewModel>
+@{
+    ViewData["Title"] = "My Clients";
+}
+
+<div class="container py-5">
+    <div class="row mb-4">
+        <div class="col-12">
+            <h1 class="display-4">My Clients</h1>
+            <p class="lead">Manage your clients and their workout plans.</p>
+            <hr>
+        </div>
+    </div>
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            <i class="fas fa-check-circle me-2"></i>
+            @TempData["SuccessMessage"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            <i class="fas fa-exclamation-circle me-2"></i>
+            @TempData["ErrorMessage"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+
+    @if (!Model.Any())
+    {
+        <div class="card shadow-sm">
+            <div class="card-body text-center py-5">
+                <i class="fas fa-users fa-4x text-muted mb-3"></i>
+                <h3>No Active Clients</h3>
+                <p class="text-muted">You don't have any active clients at the moment.</p>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-hover align-middle">
+                        <thead class="table-light">
+                            <tr>
+                                <th>Client Name</th>
+                                <th>Email</th>
+                                <th>Start Date</th>
+                                <th>End Date</th>
+                                <th>Current Plan</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var subscription in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        <div class="d-flex align-items-center">
+                                            <div class="rounded-circle bg-primary text-white d-flex align-items-center justify-content-center me-2" 
+                                                 style="width: 40px; height: 40px;">
+                                                @subscription.ClientName.Substring(0, 1).ToUpper()
+                                            </div>
+                                            @subscription.ClientName
+                                        </div>
+                                    </td>
+                                    <td>@subscription.ClientEmail</td>
+                                    <td>@subscription.StartDate.ToString("MMM dd, yyyy")</td>
+                                    <td>
+                                        @if (subscription.EndDate.HasValue)
+                                        {
+                                            @subscription.EndDate.Value.ToString("MMM dd, yyyy")
+                                        }
+                                        else
+                                        {
+                                            <span class="text-muted">No end date</span>
+                                        }
+                                    </td>
+                                    <td>
+                                        @if (subscription.WorkoutPlanId.HasValue)
+                                        {
+                                            <span class="badge bg-success-subtle text-success px-3 py-2">
+                                                <i class="fas fa-check-circle me-1"></i>
+                                                @subscription.WorkoutPlanTitle
+                                            </span>
+                                        }
+                                        else
+                                        {
+                                            <span class="badge bg-warning-subtle text-warning px-3 py-2">
+                                                <i class="fas fa-exclamation-circle me-1"></i>
+                                                No plan assigned
+                                            </span>
+                                        }
+                                    </td>
+                                    <td>
+                                        <div class="btn-group">
+                                            <a asp-action="AssignWorkoutPlan" asp-route-subscriptionId="@subscription.Id" 
+                                               class="btn btn-primary btn-sm">
+                                                <i class="fas fa-dumbbell me-1"></i>
+                                                @(subscription.WorkoutPlanId.HasValue ? "Change Plan" : "Assign Plan")
+                                            </a>
+                                            <a asp-action="ClientProgressLogs" asp-route-clientId="@subscription.ClientId" 
+                                               class="btn btn-info btn-sm text-white">
+                                                <i class="fas fa-chart-line me-1"></i>
+                                                Progress
+                                            </a>
+                                            <button type="button" class="btn btn-danger btn-sm" 
+                                                    data-bs-toggle="modal" 
+                                                    data-bs-target="#unsubscribeModal@(subscription.Id)"
+                                                    title="Unsubscribe Client">
+                                                <i class="fas fa-user-times"></i>
+                                            </button>
+                                        </div>
+
+                                        <!-- Unsubscribe Confirmation Modal -->
+                                        <div class="modal fade" id="unsubscribeModal@(subscription.Id)" tabindex="-1" aria-hidden="true">
+                                            <div class="modal-dialog">
+                                                <div class="modal-content">
+                                                    <div class="modal-header">
+                                                        <h5 class="modal-title">Confirm Unsubscribe</h5>
+                                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                                    </div>
+                                                    <div class="modal-body">
+                                                        <p>Are you sure you want to unsubscribe <strong>@subscription.ClientName</strong>?</p>
+                                                        <p class="text-muted small">This action will remove the client from your list and cancel their current workout plan.</p>
+                                                    </div>
+                                                    <div class="modal-footer">
+                                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                                                        <form asp-action="UnsubscribeClient" asp-route-subscriptionId="@subscription.Id" method="post" class="d-inline">
+                                                            <button type="submit" class="btn btn-danger">
+                                                                <i class="fas fa-user-times me-1"></i>
+                                                                Unsubscribe Client
+                                                            </button>
+                                                        </form>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@section Styles {
+    <style>
+        .table > :not(caption) > * > * {
+            padding: 1rem 0.75rem;
+        }
+
+        .btn-group .btn {
+            margin: 0 2px;
+        }
+
+        .badge {
+            font-weight: 500;
+        }
+
+        .bg-success-subtle {
+            background-color: rgba(25, 135, 84, 0.1);
+        }
+
+        .bg-warning-subtle {
+            background-color: rgba(255, 193, 7, 0.1);
+        }
+
+        .modal-content {
+            border-radius: 0.5rem;
+        }
+
+        .modal-header {
+            border-bottom: 1px solid rgba(0,0,0,0.1);
+        }
+
+        .modal-footer {
+            border-top: 1px solid rgba(0,0,0,0.1);
+        }
+    </style>
+} 

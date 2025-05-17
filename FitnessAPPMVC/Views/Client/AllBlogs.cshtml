@@ -1,0 +1,85 @@
+﻿@model IEnumerable<Fitness_App.BL.ViewModels.BlogViewModel>
+@{
+    ViewData["Title"] = "Fitness Blog";
+}
+
+<div class="container py-5">
+    <div class="row">
+        <div class="col-12 mb-4">
+            <div class="d-flex justify-content-between align-items-center">
+                <h1 class="display-4">Fitness Blog</h1>
+            </div>
+            <p class="lead text-muted">Stay informed with the latest fitness tips, nutrition advice, and success stories.</p>
+            <hr>
+        </div>
+    </div>
+
+    <div class="row">
+        @if (!Model.Any())
+        {
+            <div class="col-12 text-center py-5">
+                <div class="card shadow p-5">
+                    <i class="fas fa-newspaper fa-4x text-muted mb-3"></i>
+                    <h3>No Blog Posts Yet</h3>
+                    <p class="text-muted">Check back soon for fitness tips and advice!</p>
+                </div>
+            </div>
+        }
+        else
+        {
+            @foreach (var blog in Model)
+            {
+                <div class="col-md-6 col-lg-4 mb-4">
+                    <div class="card blog-card h-100 shadow-sm">
+                        <div class="card-img-wrapper" style="height: 200px; overflow: hidden;">
+                            @if (!string.IsNullOrEmpty(blog.ImagePath))
+                            {
+                                <img src="@blog.ImagePath" class="card-img-top" alt="@blog.BlogTitle" 
+                                     style="width: 100%; height: 100%; object-fit: cover;">
+                            }
+                            else
+                            {
+                                <div class="bg-light d-flex align-items-center justify-content-center h-100">
+                                    <i class="fas fa-dumbbell fa-3x text-muted"></i>
+                                </div>
+                            }
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">@blog.BlogTitle</h5>
+                            <p class="card-text text-muted small">
+                                <i class="fas fa-calendar-alt me-1"></i> 
+                                @blog.CreatedAt.ToString("MMM dd, yyyy")
+                            </p>
+                            <p class="card-text">
+                                @if (!string.IsNullOrEmpty(blog.BlogContent))
+                                {
+                                    @(blog.BlogContent.Length > 150 
+                                        ? $"{blog.BlogContent.Substring(0, 150)}..."
+                                        : blog.BlogContent)
+                                }
+                            </p>
+                        </div>
+                        <div class="card-footer bg-white border-0">
+                            <a asp-action="ViewBlog" asp-route-id="@blog.BlogId" class="btn btn-outline-primary">
+                                <i class="fas fa-book-open me-2"></i>Read More
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</div>
+
+<style>
+    .blog-card {
+        transition: transform 0.2s ease-in-out;
+    }
+    .blog-card:hover {
+        transform: translateY(-5px);
+    }
+    .card-img-wrapper {
+        position: relative;
+        background-color: #f8f9fa;
+    }
+</style>

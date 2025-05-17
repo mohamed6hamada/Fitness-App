@@ -1,0 +1,131 @@
+@model Fitness_App.BL.ViewModels.WorkoutPlanViewModel
+
+@{
+    ViewData["Title"] = "Add Workout Plan";
+    Layout = "_Layout";
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <div class="card">
+                <div class="card-header bg-primary text-white">
+                    <h3>Add New Workout Plan</h3>
+                </div>
+                <div class="card-body">
+                    <form id="workoutPlanForm" onsubmit="return false;">
+                        <div class="text-danger validation-summary"></div>
+                        
+                        <div class="mb-3">
+                            <label for="title" class="form-label">Title</label>
+                            <input id="title" class="form-control" placeholder="Enter workout plan title" required />
+                            <span class="text-danger title-validation"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="description" class="form-label">Description</label>
+                            <textarea id="description" class="form-control" rows="5" placeholder="Describe the workout plan"></textarea>
+                            <span class="text-danger description-validation"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="coachId" class="form-label">Coach</label>
+                            <select id="coachId" class="form-select">
+                                <option value="">-- Select Coach --</option>
+                                @foreach (var coach in ViewBag.Coaches)
+                                {
+                                    <option value="@coach.Value">@coach.Text</option>
+                                }
+                            </select>
+                            <span class="text-danger coach-validation"></span>
+                        </div>
+
+                        <div class="alert alert-info">
+                            <i class="fas fa-info-circle me-2"></i> This workout plan will be visible to all clients.
+                        </div>
+
+                        <div class="d-flex justify-content-between mt-4">
+                            <a asp-action="WorkoutPlans" class="btn btn-secondary">
+                                <i class="fas fa-arrow-left"></i> Back to List
+                            </a>
+                            <button type="button" id="createPlanBtn" class="btn btn-primary">
+                                <i class="fas fa-save"></i> Create
+                            </button>
+                        </div>
+                    </form>
+
+                    <div id="loadingIndicator" class="mt-3 text-center" style="display:none;">
+                        <div class="spinner-border text-primary" role="status">
+                            <span class="visually-hidden">Loading...</span>
+                        </div>
+                        <p class="mt-2">Creating workout plan...</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function() {
+            $('#createPlanBtn').click(function() {
+                // Reset validation messages
+                $('.text-danger').text('');
+                $('.validation-summary').text('');
+                
+                // Get form values
+                var title = $('#title').val();
+                var description = $('#description').val();
+                var coachId = $('#coachId').val();
+                
+                // Validate form
+                var isValid = true;
+                if (!title) {
+                    $('.title-validation').text('Title is required.');
+                    isValid = false;
+                }
+                
+                if (!coachId) {
+                    $('.coach-validation').text('Please select a coach.');
+                    isValid = false;
+                }
+                
+                if (!isValid) return;
+                
+                // Show loading indicator
+                $('#loadingIndicator').show();
+                $('#createPlanBtn').prop('disabled', true);
+                
+                // Send AJAX request
+                $.ajax({
+                    url: '@Url.Action("TestCreateWorkoutPlan")',
+                    type: 'GET',
+                    data: {
+                        title: title,
+                        description: description,
+                        coachId: coachId
+                    },
+                    success: function(response) {
+                        $('#loadingIndicator').hide();
+                        
+                        if(response.success) {
+                            // Show success message and redirect
+                            alert('Workout plan created successfully!');
+                            window.location.href = '@Url.Action("WorkoutPlans")';
+                        } else {
+                            // Show error
+                            $('.validation-summary').text('Error: ' + (response.error || 'Failed to create workout plan.'));
+                            $('#createPlanBtn').prop('disabled', false);
+                        }
+                    },
+                    error: function(error) {
+                        $('#loadingIndicator').hide();
+                        $('.validation-summary').text('Error: Failed to process request.');
+                        $('#createPlanBtn').prop('disabled', false);
+                    }
+                });
+            });
+        });
+    </script>
+} 

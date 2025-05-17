@@ -1,0 +1,110 @@
+﻿@model Fitness_App.Models.ViewModels.ProgressLogViewModel
+
+@{
+    ViewData["Title"] = "Progress Log Details";
+}
+
+<div class="container py-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow">
+                <div class="card-header bg-info text-white">
+                    <h2 class="mb-0">Progress Log Details</h2>
+                </div>
+                <div class="card-body">
+                    <div class="row mb-3">
+                        <div class="col-md-6">
+                            <div class="card mb-3">
+                                <div class="card-header bg-primary text-white">
+                                    <h5 class="mb-0">Weight Information</h5>
+                                </div>
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item d-flex justify-content-between">
+                                        <strong>@Html.DisplayNameFor(model => model.Date):</strong>
+                                        <span>@Model.Date.ToShortDateString()</span>
+                                    </li>
+                                    <li class="list-group-item d-flex justify-content-between">
+                                        <strong>@Html.DisplayNameFor(model => model.Weight):</strong>
+                                        <span>@Model.Weight kg</span>
+                                    </li>
+                                    <li class="list-group-item d-flex justify-content-between">
+                                        <strong>@Html.DisplayNameFor(model => model.GoalWeight):</strong>
+                                        <span>@Model.GoalWeight kg</span>
+                                    </li>
+                                </ul>
+                            </div>
+                            
+                            @if (Model.DailyCalorieNeeds.HasValue)
+                            {
+                                <div class="card mb-3">
+                                    <div class="card-header bg-info text-white">
+                                        <h5 class="mb-0">Nutrition Information</h5>
+                                    </div>
+                                    <ul class="list-group list-group-flush">
+                                        <li class="list-group-item d-flex justify-content-between">
+                                            <strong>@Html.DisplayNameFor(model => model.DailyCalorieNeeds):</strong>
+                                            <span>@Model.DailyCalorieNeeds calories</span>
+                                        </li>
+                                        <li class="list-group-item d-flex justify-content-between">
+                                            <strong>@Html.DisplayNameFor(model => model.ActivityLevel):</strong>
+                                            <span>@Model.ActivityLevel</span>
+                                        </li>
+                                    </ul>
+                                </div>
+                            }
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card mb-3">
+                                <div class="card-header bg-success text-white">
+                                    <h5 class="mb-0">Body Measurements</h5>
+                                </div>
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item d-flex justify-content-between">
+                                        <strong>@Html.DisplayNameFor(model => model.Chest):</strong>
+                                        <span>@Model.Chest cm</span>
+                                    </li>
+                                    <li class="list-group-item d-flex justify-content-between">
+                                        <strong>@Html.DisplayNameFor(model => model.Waist):</strong>
+                                        <span>@Model.Waist cm</span>
+                                    </li>
+                                    <li class="list-group-item d-flex justify-content-between">
+                                        <strong>@Html.DisplayNameFor(model => model.Arms):</strong>
+                                        <span>@Model.Arms cm</span>
+                                    </li>
+                                    <li class="list-group-item d-flex justify-content-between">
+                                        <strong>@Html.DisplayNameFor(model => model.Thighs):</strong>
+                                        <span>@Model.Thighs cm</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    @if (!string.IsNullOrWhiteSpace(Model.Notes))
+                    {
+                        <div class="card mb-3">
+                            <div class="card-header bg-secondary text-white">
+                                <h5 class="mb-0">Notes</h5>
+                            </div>
+                            <div class="card-body">
+                                <p class="mb-0">@Model.Notes</p>
+                            </div>
+                        </div>
+                    }
+
+                    <div class="d-flex justify-content-between mt-3">
+                        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                        <div>
+                            <a asp-action="Edit" asp-route-id="@Model.ProgressLogId" class="btn btn-warning me-2">
+                                <i class="fas fa-edit"></i> Edit
+                            </a>
+                            <a asp-action="Delete" asp-route-id="@Model.ProgressLogId" class="btn btn-danger">
+                                <i class="fas fa-trash"></i> Delete
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

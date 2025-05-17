@@ -1,0 +1,121 @@
+@{
+    ViewData["Title"] = "Coach Dashboard";
+    Layout = "_Layout";
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-12">
+            <div class="card shadow-sm">
+                <div class="card-header bg-primary text-white">
+                    <h3><i class="fas fa-tachometer-alt me-2"></i>Coach Dashboard</h3>
+                </div>
+                <div class="card-body">
+                    <h4 class="mb-4">Welcome, @ViewBag.CoachName!</h4>
+                    
+                    <div class="row">
+                        <div class="col-md-6 col-lg-4 mb-4">
+                            <div class="card h-100 border-primary">
+                                <div class="card-body text-center">
+                                    <i class="fas fa-dumbbell fa-3x mb-3 text-primary"></i>
+                                    <h5 class="card-title">Workout Plans</h5>
+                                    <p class="card-text display-4">@ViewBag.WorkoutPlansCount</p>
+                                    <a asp-action="MyWorkoutPlans" class="btn btn-outline-primary mt-2">Manage Plans</a>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-md-6 col-lg-4 mb-4">
+                            <div class="card h-100 border-success">
+                                <div class="card-body text-center">
+                                    <i class="fas fa-users fa-3x mb-3 text-success"></i>
+                                    <h5 class="card-title">Total Clients</h5>
+                                    <p class="card-text display-4">@ViewBag.AssignedUsersCount</p>
+                                    <a asp-action="MyClients" class="btn btn-outline-success mt-2">View All Clients</a>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-md-6 col-lg-4 mb-4">
+                            <div class="card h-100 border-info">
+                                <div class="card-body text-center">
+                                    <i class="fas fa-plus-circle fa-3x mb-3 text-info"></i>
+                                    <h5 class="card-title">Add New Plan</h5>
+                                    <p class="card-text">Create a new workout plan for your clients</p>
+                                    <a asp-action="AddWorkoutPlan" class="btn btn-outline-info mt-2">Create Plan</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row mt-4">
+        <div class="col-12">
+            <div class="card shadow-sm">
+                <div class="card-header bg-secondary text-white">
+                    <h4><i class="fas fa-clipboard-list me-2"></i>Quick Actions</h4>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-4 mb-3">
+                            <a asp-action="MyWorkoutPlans" class="btn btn-outline-primary btn-lg w-100">
+                                <i class="fas fa-dumbbell me-2"></i>Manage Workout Plans
+                            </a>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <a asp-action="MyClients" class="btn btn-outline-success btn-lg w-100">
+                                <i class="fas fa-users me-2"></i>View All Clients
+                            </a>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <a asp-action="AddWorkoutPlan" class="btn btn-outline-info btn-lg w-100">
+                                <i class="fas fa-plus-circle me-2"></i>Add New Workout Plan
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row mt-4">
+        <div class="col-12">
+            <div class="card shadow-sm">
+                <div class="card-header bg-dark text-white">
+                    <h4><i class="fas fa-tools me-2"></i>Troubleshooting</h4>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-12 mb-3">
+                            <a asp-action="DiagnoseWorkoutPlans" class="btn btn-outline-secondary w-100">
+                                <i class="fas fa-bug me-2"></i>Diagnose Workout Plans
+                            </a>
+                            <small class="text-muted mt-2 d-block">
+                                Use this to check if your workout plans are being saved correctly to the database.
+                            </small>
+                        </div>
+                        <div class="col-12 mb-3">
+                            <a asp-action="TestCreateWorkoutPlan" class="btn btn-outline-warning w-100">
+                                <i class="fas fa-vial me-2"></i>Create Test Workout Plan
+                            </a>
+                            <small class="text-muted mt-2 d-block">
+                                Creates a test workout plan with predefined values directly.
+                            </small>
+                        </div>
+                        <div class="col-12 mb-3">
+                            <a asp-action="ViewLogs" class="btn btn-outline-danger w-100">
+                                <i class="fas fa-list me-2"></i>View Debug Logs
+                            </a>
+                            <small class="text-muted mt-2 d-block">
+                                View detailed logs to diagnose app issues.
+                            </small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> 

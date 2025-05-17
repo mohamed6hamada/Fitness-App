@@ -1,0 +1,197 @@
+﻿@model Fitness_App.Models.ViewModels.ProgressLogViewModel
+
+@{
+    ViewData["Title"] = "Progress Dashboard";
+}
+
+<div class="container py-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h1>My Progress Dashboard</h1>
+        <div>
+            <a asp-action="Index" class="btn btn-secondary me-2">
+                <i class="fas fa-list"></i> View All Logs
+            </a>
+            <a asp-action="Create" class="btn btn-primary">
+                <i class="fas fa-plus"></i> Add New Log
+            </a>
+        </div>
+    </div>
+
+    @if (Model == null || String.IsNullOrEmpty(Model.ChartLabels))
+    {
+        <div class="alert alert-info">
+            <p>You haven't recorded any progress logs yet. Start tracking your fitness journey by adding your first log!</p>
+            <a asp-action="Create" class="btn btn-primary mt-2">Add Your First Log</a>
+        </div>
+    }
+    else
+    {
+        <div class="row">
+            <!-- Weight Progress Summary -->
+            <div class="col-md-4">
+                <div class="card shadow mb-4">
+                    <div class="card-header bg-primary text-white">
+                        <h5 class="mb-0">Weight Progress</h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between mb-2">
+                            <span>Current Weight:</span>
+                            <strong>@Model.Weight kg</strong>
+                        </div>
+                        <div class="d-flex justify-content-between mb-2">
+                            <span>Goal Weight:</span>
+                            <strong>@Model.GoalWeight kg</strong>
+                        </div>
+                        <div class="d-flex justify-content-between mb-2">
+                            <span>Weight Change:</span>
+                            <strong class="@(Model.WeightChange < 0 ? "text-success" : Model.WeightChange > 0 ? "text-danger" : "")">
+                                @(Model.WeightChange < 0 ? "" : "+")@Model.WeightChange kg
+                            </strong>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                            <span>Weight To Goal:</span>
+                            <strong class="@(Model.WeightToGoal < 0 ? "text-danger" : "text-success")">
+                                @Model.WeightToGoal kg
+                            </strong>
+                        </div>
+
+                        @if (Model.WeightToGoal.HasValue)
+                        {
+                            <div class="progress mt-3">
+                                @{
+                                    var progressPercentage = 0;
+                                    if (Model.WeightChange.HasValue && Model.WeightToGoal.HasValue)
+                                    {
+                                        var totalChange = Model.WeightChange.Value + Model.WeightToGoal.Value;
+                                        if (totalChange != 0)
+                                        {
+                                            progressPercentage = (int)(Math.Abs(Model.WeightChange.Value) / Math.Abs(totalChange) * 100);
+                                        }
+                                    }
+                                }
+                                <div class="progress-bar bg-success" role="progressbar" style="width: @progressPercentage%;"
+                                     aria-valuenow="@progressPercentage" aria-valuemin="0" aria-valuemax="100">
+                                    @progressPercentage%
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+
+                <!-- Daily Calorie Needs -->
+                @if (Model.DailyCalorieNeeds.HasValue)
+                {
+                    <div class="card shadow mb-4">
+                        <div class="card-header bg-info text-white">
+                            <h5 class="mb-0">Nutrition Information</h5>
+                        </div>
+                        <div class="card-body">
+                            <div class="d-flex justify-content-between mb-2">
+                                <span>Daily Calorie Needs:</span>
+                                <strong>@Model.DailyCalorieNeeds calories</strong>
+                            </div>
+                            <div class="d-flex justify-content-between mb-2">
+                                <span>Activity Level:</span>
+                                <strong>@Model.ActivityLevel</strong>
+                            </div>
+                            <div class="mt-3 small text-muted">
+                                <p class="mb-1">Calculated based on your current weight, height, age, and activity level.</p>
+                                <p class="mb-0">Update your measurements to recalculate.</p>
+                            </div>
+                        </div>
+                    </div>
+                }
+
+                <!-- Latest Measurements -->
+                <div class="card shadow">
+                    <div class="card-header bg-success text-white">
+                        <h5 class="mb-0">Latest Measurements</h5>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item d-flex justify-content-between">
+                            <span>Chest:</span>
+                            <strong>@Model.Chest cm</strong>
+                        </li>
+                        <li class="list-group-item d-flex justify-content-between">
+                            <span>Waist:</span>
+                            <strong>@Model.Waist cm</strong>
+                        </li>
+                        <li class="list-group-item d-flex justify-content-between">
+                            <span>Arms:</span>
+                            <strong>@Model.Arms cm</strong>
+                        </li>
+                        <li class="list-group-item d-flex justify-content-between">
+                            <span>Thighs:</span>
+                            <strong>@Model.Thighs cm</strong>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Weight Progress Chart -->
+            <div class="col-md-8">
+                <div class="card shadow">
+                    <div class="card-header bg-info text-white">
+                        <h5 class="mb-0">Weight Progress Chart</h5>
+                    </div>
+                    <div class="card-body">
+                        <canvas id="weightChart" width="100%" height="400"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        $(document).ready(function() {
+            // Check if chart data exists
+            if ('@Model.ChartLabels' && '@Model.ChartData') {
+                const labels = JSON.parse('@Html.Raw(Model.ChartLabels)');
+                const data = JSON.parse('@Html.Raw(Model.ChartData)');
+
+                const ctx = document.getElementById('weightChart').getContext('2d');
+                new Chart(ctx, {
+                    type: 'line',
+                    data: {
+                        labels: labels,
+                        datasets: [{
+                            label: 'Weight (kg)',
+                            data: data,
+                            backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                            borderColor: 'rgba(54, 162, 235, 1)',
+                            borderWidth: 2,
+                            pointBackgroundColor: 'rgba(54, 162, 235, 1)',
+                            pointRadius: 5,
+                            tension: 0.1
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        scales: {
+                            y: {
+                                beginAtZero: false,
+                                ticks: {
+                                    callback: function(value) {
+                                        return value + ' kg';
+                                    }
+                                }
+                            }
+                        },
+                        plugins: {
+                            tooltip: {
+                                callbacks: {
+                                    label: function(context) {
+                                        return context.dataset.label + ': ' + context.parsed.y + ' kg';
+                                    }
+                                }
+                            }
+                        }
+                    }
+                });
+            }
+        });
+    </script>
+}

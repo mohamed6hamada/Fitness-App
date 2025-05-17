@@ -1,0 +1,124 @@
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.deps.json
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.dll
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.pdb
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.csproj.AssemblyReference.cache
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.AssemblyInfoInputs.cache
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.AssemblyInfo.cs
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.csproj.CoreCompileInputs.cache
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.dll
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.BL\obj\Debug\net8.0\refint\Fitness App.BL.dll
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.pdb
+D:\DEPI\tech\C#_MiniProject\C#_Project\Fitness App Sol\Fitness App.BL\obj\Debug\net8.0\ref\Fitness App.BL.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.csproj.AssemblyReference.cache
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.AssemblyInfoInputs.cache
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.AssemblyInfo.cs
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.csproj.CoreCompileInputs.cache
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\refint\Fitness App.BL.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.pdb
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.deps.json
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.pdb
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.DAL.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.DAL.pdb
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness .26E6CB48.Up2Date
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\ref\Fitness App.BL.dll
+D:\DEPI\Graduation project\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.sourcelink.json
+D:\NewUpdates\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.deps.json
+D:\NewUpdates\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.dll
+D:\NewUpdates\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.pdb
+D:\NewUpdates\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.DAL.dll
+D:\NewUpdates\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.DAL.pdb
+D:\NewUpdates\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.csproj.AssemblyReference.cache
+D:\NewUpdates\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewUpdates\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.AssemblyInfoInputs.cache
+D:\NewUpdates\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.AssemblyInfo.cs
+D:\NewUpdates\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.csproj.CoreCompileInputs.cache
+D:\NewUpdates\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.sourcelink.json
+D:\NewUpdates\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness .26E6CB48.Up2Date
+D:\NewUpdates\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.dll
+D:\NewUpdates\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\refint\Fitness App.BL.dll
+D:\NewUpdates\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.pdb
+D:\NewUpdates\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\ref\Fitness App.BL.dll
+D:\xxxxxx\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.deps.json
+D:\xxxxxx\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.dll
+D:\xxxxxx\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.pdb
+D:\xxxxxx\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.DAL.dll
+D:\xxxxxx\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.DAL.pdb
+D:\xxxxxx\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.csproj.AssemblyReference.cache
+D:\xxxxxx\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\xxxxxx\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.AssemblyInfoInputs.cache
+D:\xxxxxx\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.AssemblyInfo.cs
+D:\xxxxxx\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.csproj.CoreCompileInputs.cache
+D:\xxxxxx\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.sourcelink.json
+D:\xxxxxx\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness .26E6CB48.Up2Date
+D:\xxxxxx\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.dll
+D:\xxxxxx\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\refint\Fitness App.BL.dll
+D:\xxxxxx\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.pdb
+D:\xxxxxx\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\ref\Fitness App.BL.dll
+D:\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.deps.json
+D:\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.dll
+D:\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.pdb
+D:\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.DAL.dll
+D:\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.DAL.pdb
+D:\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.csproj.AssemblyReference.cache
+D:\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.AssemblyInfoInputs.cache
+D:\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.AssemblyInfo.cs
+D:\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.csproj.CoreCompileInputs.cache
+D:\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.sourcelink.json
+D:\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness .26E6CB48.Up2Date
+D:\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.dll
+D:\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\refint\Fitness App.BL.dll
+D:\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.pdb
+D:\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\ref\Fitness App.BL.dll
+D:\zzzzzzz\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.deps.json
+D:\zzzzzzz\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.dll
+D:\zzzzzzz\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.pdb
+D:\zzzzzzz\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.DAL.dll
+D:\zzzzzzz\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.DAL.pdb
+D:\zzzzzzz\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.csproj.AssemblyReference.cache
+D:\zzzzzzz\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\zzzzzzz\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.AssemblyInfoInputs.cache
+D:\zzzzzzz\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.AssemblyInfo.cs
+D:\zzzzzzz\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.csproj.CoreCompileInputs.cache
+D:\zzzzzzz\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.sourcelink.json
+D:\zzzzzzz\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness .26E6CB48.Up2Date
+D:\zzzzzzz\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.dll
+D:\zzzzzzz\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\refint\Fitness App.BL.dll
+D:\zzzzzzz\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.pdb
+D:\zzzzzzz\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\ref\Fitness App.BL.dll
+D:\ok brother im done\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.deps.json
+D:\ok brother im done\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.dll
+D:\ok brother im done\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.pdb
+D:\ok brother im done\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.DAL.dll
+D:\ok brother im done\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.DAL.pdb
+D:\ok brother im done\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.csproj.AssemblyReference.cache
+D:\ok brother im done\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ok brother im done\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.AssemblyInfoInputs.cache
+D:\ok brother im done\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.AssemblyInfo.cs
+D:\ok brother im done\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.csproj.CoreCompileInputs.cache
+D:\ok brother im done\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.sourcelink.json
+D:\ok brother im done\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness .26E6CB48.Up2Date
+D:\ok brother im done\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.dll
+D:\ok brother im done\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\refint\Fitness App.BL.dll
+D:\ok brother im done\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.pdb
+D:\ok brother im done\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\ref\Fitness App.BL.dll
+D:\ziad\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.deps.json
+D:\ziad\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.dll
+D:\ziad\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.BL.pdb
+D:\ziad\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.DAL.dll
+D:\ziad\FitnessAPPMVCSol\Fitness App.BL\bin\Debug\net8.0\Fitness App.DAL.pdb
+D:\ziad\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.csproj.AssemblyReference.cache
+D:\ziad\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ziad\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.AssemblyInfoInputs.cache
+D:\ziad\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.AssemblyInfo.cs
+D:\ziad\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.csproj.CoreCompileInputs.cache
+D:\ziad\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.sourcelink.json
+D:\ziad\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness .26E6CB48.Up2Date
+D:\ziad\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.dll
+D:\ziad\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\refint\Fitness App.BL.dll
+D:\ziad\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\Fitness App.BL.pdb
+D:\ziad\FitnessAPPMVCSol\Fitness App.BL\obj\Debug\net8.0\ref\Fitness App.BL.dll

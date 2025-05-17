@@ -1,0 +1,119 @@
+﻿@model IEnumerable<Fitness_App.BL.ViewModels.ExerciseViewModel>
+@{
+    ViewData["Title"] = "Exercise List";
+}
+
+<h2>Exercises Management</h2>
+
+<div class="mt-4">
+    <a asp-action="AddExercises" class="btn btn-primary">Add Exercise</a>
+</div>
+
+@if (Model != null && Model.Any())
+{
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+        @foreach (var item in Model)
+        {
+            <div class="col">
+                <div class="card h-100 shadow-sm">
+                    <img src="data:image/gif;base64,@Convert.ToBase64String(item.GIF)"
+                         class="card-img-top img-fluid p-2"
+                         alt="@item.Name GIF"
+                         style="height: 200px; object-fit: contain; border-radius: 10px;" />
+
+                    <div class="card-body d-flex flex-column">
+                        <h5 class="card-title">@item.Name</h5>
+                        <p class="card-text text-muted">
+                            @(item.Description?.Length > 300 ? item.Description.Substring(0, 300) + "..." : item.Description)
+                        </p>
+                        <p class="text-secondary fw-bold">Type: @item.Type</p>
+
+                        <div class="mt-auto d-flex justify-content-between">
+                            <a asp-action="Update" asp-route-id="@item.ExerciseId" class="btn btn-sm btn-outline-primary">
+                                <i class="bi bi-pencil"></i> Edit
+                            </a>
+                            <a asp-action="Delete" asp-route-id="@item.ExerciseId" class="btn btn-sm btn-outline-danger">
+                                <i class="bi bi-trash"></i> Delete
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <div class="alert alert-info mt-4">
+        There are no exercises available.
+    </div>
+}
+
+
+
+
+
+
+
+
+
+
+@* @model IEnumerable<Fitness_App.BL.ViewModels.ExerciseViewModel> *@
+@* @{ *@
+@*     ViewData["Title"] = "GetExerciseData"; *@
+@* } *@
+
+@* <h2>Exercises Data</h2> *@
+
+@* @if (Model != null && Model.Any()) *@
+@* {     *@
+@*     //name , pictre , description, type *@
+@*      @foreach (var item in Model) *@
+@*      { *@
+@*         <div class="col-12"> *@
+@*             <div class="card mb-3"> *@
+@*                 <div class="row no-gutters"> *@
+@*                     <div class="col-md-2 poster" style="background-image: url(data:image\/*;base64,@(Convert.ToBase64String(item.GIF)))"></div> *@
+@*                     <div class="col-md-10"> *@
+@*                         <div class="card-body d-flex flex-column justify-content-between h-100"> *@
+@*                             <div> *@
+@*                                 <h5 class="card-title">@item.Name </h5> *@
+@*                                 <p class="card-text text-justify">@(item.Description.Length > 500 ? $"{item.Description.Substring(0, 500)}..." : item.Description)</p> *@
+@*                             </div> *@
+@*                             <div class="d-flex justify-content-between"> *@
+@*                                 <div> *@
+@*                                     <a asp-action="Delete" asp-route-id="@item.ExerciseId" class="btn btn-outline-secondary"> *@
+@*                                         <i class="bi bi-camera-reels"></i> *@
+@*                                         Delete *@
+@*                                     </a> *@
+@*                                     <a asp-action="Edit" asp-route-id="@item.ExerciseId" class="btn btn-outline-primary"> *@
+@*                                         <i class="bi bi-pencil"></i> *@
+@*                                         Edit *@
+@*                                     </a> *@
+                                  
+@*                                 </div> *@
+@*                             </div> *@
+@*                         </div> *@
+@*                     </div> *@
+@*                 </div> *@
+@*             </div> *@
+@*         </div> *@
+@*      } *@
+@* } *@
+      
+@* else *@
+@* { *@
+@*     <div class="alert alert-info mt-4"> *@
+@*         alert alert-info mt-4">there is no exercises *@
+@*     </div> *@
+@* } *@
+
+
+
+
+
+
+
+
+
+

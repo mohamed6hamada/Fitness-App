@@ -1,0 +1,26 @@
+﻿@model Fitness_App.DAL.Models.DietPlans
+
+@{
+    ViewData["Title"] = "Diet Plan Details";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-sm">
+                <img src="@Url.Content("~/" + Model.ImagePath)" class="card-img-top img-fluid" alt="@Model.PlanTitle" style="height: 700px; width: 100%; object-fit: contain;" />
+                <div class="card-body">
+                    <h2 class="card-title text-center">@Model.PlanTitle</h2>
+
+                    <hr />
+
+                    <!-- You can add more details here if available in the future -->
+
+                    <div class="text-center mt-4">
+                        <a href="@Url.Action("AllDietPlans", "Client")" class="btn btn-secondary">Back to All Plans</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

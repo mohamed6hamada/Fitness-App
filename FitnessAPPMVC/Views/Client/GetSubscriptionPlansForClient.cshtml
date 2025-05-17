@@ -1,0 +1,133 @@
+﻿@model List<Fitness_App.BL.ViewModels.SubscriptionPlanViewModel>
+
+<div class="container py-5">
+    <div class="row justify-content-center mb-5">
+        <div class="col-lg-8 text-center">
+            <h2 class="display-4 fw-bold mb-3">Choose Your Plan</h2>
+            <p class="lead text-muted">Select the perfect subscription plan that fits your fitness journey</p>
+        </div>
+    </div>
+
+    @if (Model != null && Model.Any())
+    {
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 justify-content-center">
+            @foreach (var item in Model)
+            {
+                <div class="col">
+                    <div class="card h-100 shadow border-0 position-relative overflow-hidden">
+                        <div class="card-body p-4">
+                            <div class="text-center mb-4">
+                                <h3 class="card-title h4 fw-bold text-primary mb-3">@item.Name</h3>
+                                <div class="price-tag mb-3">
+                                    <span class="display-5 fw-bold text-dark">$@item.Price</span>
+                                    <span class="text-muted">/plan</span>
+                                </div>
+                                <div class="duration-badge mb-4">
+                                    <span class="badge bg-primary-subtle text-primary rounded-pill px-3 py-2">
+                                        <i class="fas fa-clock me-1"></i> @item.DurationInDays Days
+                                    </span>
+                                </div>
+                            </div>
+
+                            <div class="plan-features mb-4">
+                                <p class="card-text text-muted">
+                                    @(item.Description?.Length > 150 ? item.Description.Substring(0, 150) + "..." : item.Description)
+                                </p>
+                            </div>
+
+                            <div class="text-center mt-auto">
+                                <a href="@Url.Action("Checkout", "Client", new { PlanId = item.PlanId })" 
+                                   class="btn btn-primary btn-lg w-100 rounded-pill">
+                                    Subscribe Now
+                                </a>
+                            </div>
+                        </div>
+                        
+                        @if (item.Name.ToLower().Contains("premium") || item.Name.ToLower().Contains("pro"))
+                        {
+                            <div class="position-absolute top-0 end-0 mt-3 me-3">
+                                <span class="badge bg-warning text-dark">
+                                    <i class="fas fa-star"></i> Popular
+                                </span>
+                            </div>
+                        }
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-info mt-4 text-center p-4 rounded-3 shadow-sm">
+            <i class="fas fa-info-circle fa-2x mb-3"></i>
+            <h4 class="alert-heading">No Plans Available</h4>
+            <p class="mb-0">There are currently no subscription plans available. Please check back later.</p>
+        </div>
+    }
+</div>
+
+@section Styles {
+    <style>
+        .card {
+            transition: transform 0.2s ease-in-out;
+            border-radius: 1rem;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+        }
+
+        .price-tag {
+            position: relative;
+            padding: 1rem 0;
+        }
+
+        .price-tag .text-muted {
+            font-size: 1rem;
+        }
+
+        .plan-features {
+            min-height: 100px;
+        }
+
+        .duration-badge {
+            font-size: 0.9rem;
+        }
+
+        .btn-primary {
+            padding: 0.8rem 2rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            transition: all 0.3s ease;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        .badge {
+            font-weight: 500;
+        }
+
+        .bg-primary-subtle {
+            background-color: rgba(13, 110, 253, 0.1);
+        }
+
+        /* Responsive adjustments */
+        /*(max-width: 768px) {
+            .display-4 {
+                font-size: 2.5rem;
+            }
+
+            .card-body {
+                padding: 1.5rem;
+            }
+
+            .price-tag .display-5 {
+                font-size: 2rem;
+            }
+        } */
+    </style>
+}

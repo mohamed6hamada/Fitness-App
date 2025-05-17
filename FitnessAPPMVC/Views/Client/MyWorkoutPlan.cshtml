@@ -1,0 +1,103 @@
+@model Fitness_App.BL.ViewModels.WorkoutPlanViewModel
+@{
+    ViewData["Title"] = "My Workout Plan";
+}
+
+<div class="container py-5">
+    <div class="row mb-4">
+        <div class="col-12">
+            <h1 class="display-4">My Workout Plan</h1>
+            <hr>
+        </div>
+    </div>
+
+    @if (TempData["InfoMessage"] != null)
+    {
+        <div class="alert alert-info">
+            @TempData["InfoMessage"]
+        </div>
+    }
+
+    @if (Model == null)
+    {
+        <div class="card shadow-sm">
+            <div class="card-body text-center py-5">
+                <i class="fas fa-dumbbell fa-4x text-muted mb-3"></i>
+                <h3>No Workout Plan Assigned Yet</h3>
+                <p class="text-muted">Your coach will assign a workout plan soon. Check back later!</p>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="card shadow-sm">
+            <div class="card-header bg-primary text-white">
+                <h3 class="card-title mb-0">@Model.Title</h3>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-8">
+                        <h5>Description</h5>
+                        <p>@Model.Description</p>
+
+                        @if (!string.IsNullOrEmpty(Model.Goals))
+                        {
+                            <h5>Goals</h5>
+                            <p>@Model.Goals</p>
+                        }
+
+                        @if (!string.IsNullOrEmpty(Model.Equipment))
+                        {
+                            <h5>Required Equipment</h5>
+                            <p>@Model.Equipment</p>
+                        }
+
+                        @if (!string.IsNullOrEmpty(Model.Duration))
+                        {
+                            <h5>Duration</h5>
+                            <p>@Model.Duration</p>
+                        }
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card bg-light">
+                            <div class="card-body">
+                                <h5>Coach Information</h5>
+                                <p>
+                                    <strong>Coach:</strong> @Model.CoachName<br>
+                                    <strong>Created:</strong> @Model.CreatedDate.ToString("MMM dd, yyyy")
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                @if (!string.IsNullOrEmpty(Model.Schedule))
+                {
+                    <div class="mt-4">
+                        <h5>Weekly Schedule</h5>
+                        <div class="schedule-content">
+                            @Html.Raw(Model.Schedule.Replace("\n", "<br>"))
+                        </div>
+                    </div>
+                }
+
+                @if (!string.IsNullOrEmpty(Model.Notes))
+                {
+                    <div class="mt-4">
+                        <h5>Additional Notes</h5>
+                        <p>@Model.Notes</p>
+                    </div>
+                }
+            </div>
+        </div>
+    }
+</div>
+
+<style>
+    .schedule-content {
+        background-color: #f8f9fa;
+        padding: 1rem;
+        border-radius: 0.25rem;
+        white-space: pre-line;
+    }
+</style> 

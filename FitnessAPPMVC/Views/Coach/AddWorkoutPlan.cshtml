@@ -1,0 +1,54 @@
+@model Fitness_App.BL.ViewModels.WorkoutPlanViewModel
+@{
+    ViewData["Title"] = "Add Workout Plan";
+    Layout = "_Layout";
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <div class="card shadow-sm">
+                <div class="card-header bg-primary text-white">
+                    <h3><i class="fas fa-plus-circle me-2"></i>Add New Workout Plan</h3>
+                </div>
+                <div class="card-body">
+                    <form asp-action="AddWorkoutPlan" method="post">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" asp-for="CoachId" value="@Model.CoachId" />
+                        
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        
+                        <div class="mb-3">
+                            <label asp-for="Title" class="form-label">Title</label>
+                            <input asp-for="Title" class="form-control" placeholder="Enter workout plan title" required />
+                            <span asp-validation-for="Title" class="text-danger"></span>
+                        </div>
+                        
+                        <div class="mb-3">
+                            <label asp-for="Description" class="form-label">Description</label>
+                            <textarea asp-for="Description" class="form-control" rows="4" placeholder="Describe the workout plan"></textarea>
+                            <span asp-validation-for="Description" class="text-danger"></span>
+                        </div>
+                        
+                        @* <div class="alert alert-info">
+                            <i class="fas fa-info-circle me-2"></i> This workout plan will be visible to all clients.
+                        </div> *@
+                        
+                        <div class="d-flex justify-content-between mt-4">
+                            <a asp-action="MyWorkoutPlans" class="btn btn-secondary">
+                                <i class="fas fa-arrow-left me-2"></i>Back to List
+                            </a>
+                            <button type="submit" class="btn btn-primary">
+                                <i class="fas fa-save me-2"></i>Create Plan
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+} 

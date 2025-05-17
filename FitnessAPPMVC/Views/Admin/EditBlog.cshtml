@@ -1,0 +1,131 @@
+﻿@model Fitness_App.BL.ViewModels.BlogViewModel
+@{
+    ViewData["Title"] = "Edit Blog";
+}
+
+<h2>Edit Blog</h2>
+
+<div class="container">
+    @if (!ViewData.ModelState.IsValid)
+    {
+        <div class="alert alert-danger">
+            <ul>
+                @foreach (var modelState in ViewData.ModelState.Values)
+                {
+                    foreach (var error in modelState.Errors)
+                    {
+                        <li>@error.ErrorMessage</li>
+                    }
+                }
+            </ul>
+        </div>
+    }
+
+    <form asp-action="EditBlog" method="post" enctype="multipart/form-data" class="needs-validation" novalidate>
+        @Html.AntiForgeryToken()
+        <input type="hidden" asp-for="BlogId" />
+        <input type="hidden" asp-for="CreatedAt" />
+        
+        <div class="form-group mb-3">
+            <label asp-for="BlogTitle" class="form-label">Title</label>
+            <input asp-for="BlogTitle" class="form-control" required />
+            <span asp-validation-for="BlogTitle" class="text-danger"></span>
+        </div>
+        
+        <div class="form-group mb-3">
+            <label asp-for="BlogContent" class="form-label">Content</label>
+            <textarea asp-for="BlogContent" class="form-control" rows="5" required></textarea>
+            <span asp-validation-for="BlogContent" class="text-danger"></span>
+        </div>
+        
+        <div class="form-group mb-3">
+            <label asp-for="ImageFile" class="form-label">Blog Image</label>
+            <input asp-for="ImageFile" type="file" class="form-control" accept="image/*" />
+            <span asp-validation-for="ImageFile" class="text-danger"></span>
+            <small class="form-text text-muted">Supported formats: .jpg, .jpeg, .png, .gif (Max size: 5MB)</small>
+            
+            @if (!string.IsNullOrEmpty(Model.ImagePath))
+            {
+                <div class="mt-2">
+                    <p class="mb-1">Current Image:</p>
+                    <img src="@Model.ImagePath" alt="Current blog image" class="img-thumbnail" style="max-width: 300px; max-height: 200px;" />
+                </div>
+            }
+            
+            <div id="imagePreview" class="mt-2" style="display: none;">
+                <p class="mb-1">New Image Preview:</p>
+                <img id="preview" src="#" alt="Preview" style="max-width: 300px; max-height: 200px;" class="img-thumbnail" />
+            </div>
+        </div>
+        
+        <div class="mt-3">
+            <button type="submit" class="btn btn-primary">Update Blog</button>
+            <a asp-action="BlogManagement" class="btn btn-secondary">Back to List</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        function validateImage(input) {
+            // Clear previous preview
+            const preview = document.getElementById('preview');
+            const previewDiv = document.getElementById('imagePreview');
+            
+            // Check if a file is selected
+            if (!input.files || !input.files[0]) {
+                previewDiv.style.display = 'none';
+                return;
+            }
+
+            const file = input.files[0];
+            
+            // Validate file type
+            const validTypes = ['image/jpeg', 'image/jpg', 'image/png', 'image/gif'];
+            if (!validTypes.includes(file.type)) {
+                alert('Please select a valid image file (JPG, JPEG, PNG, or GIF)');
+                input.value = '';
+                previewDiv.style.display = 'none';
+                return;
+            }
+            
+            // Validate file size (5MB)
+            if (file.size > 5 * 1024 * 1024) {
+                alert('File size must be less than 5MB');
+                input.value = '';
+                previewDiv.style.display = 'none';
+                return;
+            }
+
+            // Show preview
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                preview.src = e.target.result;
+                previewDiv.style.display = 'block';
+            }
+            reader.readAsDataURL(file);
+        }
+
+        // Form validation
+        $(document).ready(function() {
+            // Add the onchange event handler to the file input
+            $('#ImageFile').change(function() {
+                validateImage(this);
+            });
+
+            $('form').submit(function(e) {
+                if (!$('#BlogTitle').val().trim()) {
+                    e.preventDefault();
+                    alert('Please enter a blog title');
+                    return false;
+                }
+                if (!$('#BlogContent').val().trim()) {
+                    e.preventDefault();
+                    alert('Please enter blog content');
+                    return false;
+                }
+            });
+        });
+    </script>
+}

@@ -1,0 +1,124 @@
+﻿@model Fitness_App.BL.ViewModels.ExerciseViewModel
+
+@{
+    ViewData["Title"] = "Add New Exercise";
+}
+
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-lg border-0 rounded-lg">
+                <div class="card-body p-4">
+                    <div class="text-center mb-4">
+                        <h2 class="fw-bold text-primary">Add New Exercise</h2>
+                        <p class="text-muted">Fill in the details below to add a new exercise to the database</p>
+                    </div>
+
+                    <form asp-controller="Admin" asp-action="AddExerciseToDb" method="post" enctype="multipart/form-data" class="needs-validation" novalidate>
+                        <div class="form-group mb-4">
+                            <label asp-for="Name" class="form-label fw-semibold">Exercise Name</label>
+                            <input asp-for="Name" class="form-control form-control-lg" placeholder="Enter exercise name" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group mb-4">
+                            <label asp-for="Description" class="form-label fw-semibold">Description</label>
+                            <textarea asp-for="Description" class="form-control form-control-lg" rows="4" 
+                                    placeholder="Provide detailed instructions for the exercise"></textarea>
+                            <span asp-validation-for="Description" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group mb-4">
+                            <label asp-for="GIFFile" class="form-label fw-semibold">Exercise Demonstration (GIF)</label>
+                            <div class="input-group">
+                                <input asp-for="GIFFile" type="file" class="form-control form-control-lg" 
+                                       accept=".gif" data-browse="Upload GIF" />
+                            </div>
+                            <small class="text-muted">Upload a GIF demonstrating the proper form for this exercise</small>
+                            <span asp-validation-for="GIFFile" class="text-danger d-block"></span>
+                        </div>
+
+                        <div class="form-group mb-4">
+                            <label asp-for="Type" class="form-label fw-semibold">Exercise Type</label>
+                            <select asp-for="Type" class="form-select form-select-lg" 
+                                    asp-items="Html.GetEnumSelectList<Fitness_App.DAL.Models.ExerciseType>()">
+                                <option value="">-- Select Exercise Type --</option>
+                            </select>
+                            <span asp-validation-for="Type" class="text-danger"></span>
+                        </div>
+
+                        <div class="d-grid gap-2 d-md-flex justify-content-md-end mt-4">
+                            <a asp-action="GetExerciseData" class="btn btn-outline-secondary btn-lg px-4">Cancel</a>
+                            <button type="submit" class="btn btn-primary btn-lg px-4">
+                                <i class="fas fa-plus-circle me-2"></i>Add Exercise
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+    <script>
+        // Add custom file input styling
+        document.querySelector('input[type="file"]').addEventListener('change', function(e) {
+            var fileName = e.target.files[0]?.name;
+            var label = document.querySelector('.custom-file-label');
+            label && (label.textContent = fileName || 'Choose file');
+        });
+
+        // Add form validation styling
+        (function () {
+            'use strict'
+            var forms = document.querySelectorAll('.needs-validation')
+            Array.prototype.slice.call(forms).forEach(function (form) {
+                form.addEventListener('submit', function (event) {
+                    if (!form.checkValidity()) {
+                        event.preventDefault()
+                        event.stopPropagation()
+                    }
+                    form.classList.add('was-validated')
+                }, false)
+            })
+        })()
+    </script>
+}
+
+<style>
+    .card {
+        transition: all 0.3s ease;
+    }
+    
+    .form-control:focus, .form-select:focus {
+        border-color: #0d6efd;
+        box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+    }
+    
+    .btn-primary {
+        background-color: #0d6efd;
+        border-color: #0d6efd;
+        transition: all 0.3s ease;
+    }
+    
+    .btn-primary:hover {
+        background-color: #0b5ed7;
+        border-color: #0a58ca;
+        transform: translateY(-1px);
+    }
+    
+    .btn-outline-secondary:hover {
+        transform: translateY(-1px);
+    }
+    
+    .form-control-lg, .form-select-lg {
+        font-size: 1rem;
+        padding: 0.75rem 1rem;
+    }
+    
+    textarea.form-control {
+        resize: vertical;
+    }
+</style>

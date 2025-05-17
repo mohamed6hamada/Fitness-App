@@ -1,0 +1,31 @@
+﻿@model List<Fitness_App.DAL.Models.Blogs>
+@{
+    ViewData["Title"] = "Manage Blogs";
+}
+
+<h2>Manage Blogs</h2>
+
+<a href="@Url.Action("AddBlog", "Admin")" class="btn btn-success">Add New Blog</a>
+
+<table class="table mt-3">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Content (Preview)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var blog in Model)
+        {
+            <tr>
+                <td>@blog.BlogTitle</td>
+                <td>@(blog.BlogContent?.Length > 100 ? blog.BlogContent.Substring(0, 100) + "..." : blog.BlogContent)</td>
+                <td>
+                    <a href="@Url.Action("EditBlog", "Admin", new { id = blog.BlogId })" class="btn btn-sm btn-primary">Edit</a>
+                    <a href="@Url.Action("DeleteBlog", "Admin", new { id = blog.BlogId })" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
