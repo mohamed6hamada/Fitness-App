@@ -83,8 +83,7 @@
 
 ## 📁 Project Structure
 
-
-
+```plaintext
 FitnessAPPMVCSol/
 ├── FitnessAPPMVC/
 │   ├── Controllers/
@@ -98,10 +97,11 @@ FitnessAPPMVCSol/
 │   ├── Repositories/
 │   └── Interfaces/
 └── Fitness App.BL/
-├── Services/
-├── ViewModels/
-├── Validations/
-└── MappingProfiles/
+    ├── Services/
+    ├── ViewModels/
+    ├── Validations/
+    └── MappingProfiles/
+```
 
 
 
