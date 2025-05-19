@@ -129,7 +129,7 @@ FitnessAPPMVCSol/
 
 1. **Clone the Repository**  
    bash
-   git clone https://github.com/yourusername/FitnessAPPMVCSol.git
+   git clone (https://github.com/mohamed6hamada/Fitness-App.git)
 
 
 2. **Navigate to Project Directory**
