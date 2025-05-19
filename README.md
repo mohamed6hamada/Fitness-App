@@ -16,7 +16,6 @@
 - [✨ Key Features](#-key-features)
 - [🚀 Getting Started](#-getting-started)
 - [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
 - [📬 Contact](#-contact)
 
 ---
