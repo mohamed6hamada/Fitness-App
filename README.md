@@ -1,5 +1,5 @@
 
-# 💪 FitnessAPPMVCSol
+# 💪 FitnessTracker
 
 **A scalable, layered fitness management system built with ASP.NET Core MVC.**
 
@@ -22,7 +22,7 @@
 
 ## 🧭 Overview
 
-**FitnessAPPMVCSol** is a robust fitness application built using **ASP.NET Core MVC** and follows a **clean layered architecture** to ensure scalability, separation of concerns, and maintainability.
+**FitnessTracker** is a robust fitness application built using **ASP.NET Core MVC** and follows a **clean layered architecture** to ensure scalability, separation of concerns, and maintainability.
 
 
 
